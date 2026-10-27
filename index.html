@@ -376,13 +376,13 @@ function renderEvents(target, limit){
     if (amOwner && going.length && !limit){
       const named = going.map(id => ((profiles[id] && profiles[id].name) || (id === uid ? "You" : "A member")) + ((people[id] && people[id].anon) ? " (anonymous in Trackers)" : ""));
       const nAnon = 0;
-      who = el("details", {class:"who"}, el("summary", {}, "Who's going (" + going.length + ", only you can see this)"), el("p", {}, named.join(", ") + (nAnon ? (named.length ? ", plus " : "") + nAnon + " anonymous" : "")));
+      who = el("details", {class:"who"}, el("summary", {}, "Who's going (only you can see this)"), el("p", {}, named.join(", ") + (nAnon ? (named.length ? ", plus " : "") + nAnon + " anonymous" : "")));
     }
     const past = isDate(e.date) && daysTo(e.date) < 0;
     box.append(el("article", {class:"ev" + (past ? " past" : "")},
       el("div", {class:"when"}, el("small", {}, d.toLocaleDateString("en-GB", {weekday:"short"})), el("b", {}, String(d.getDate())), el("small", {}, d.toLocaleDateString("en-GB", {month:"short"}))),
       el("div", {}, el("h3", {}, e.title || ""),
-        el("div", {class:"meta"}, el("span", {}, (e.start ? e.start + (e.end ? "–" + e.end : "") : "Time TBC")), el("span", {}, e.location || "Location TBC"), (amOwner && going.length) ? el("span", {}, going.length + " going") : null),
+        el("div", {class:"meta"}, el("span", {}, (e.start ? e.start + (e.end ? "–" + e.end : "") : "Time TBC")), el("span", {}, e.location || "Location TBC"), null),
         e.text ? el("p", {}, e.text) : null, who,
         el("div", {class:"tags"}, el("span", {class:"tag " + (e.status === "Confirmed" ? "conf" : "prop")}, e.status === "Confirmed" ? "Confirmed" : e.status === "Pending" ? "Pending" : "Proposed date"), ...(e.for || []).map(t => el("span", {class:"tag"}, t)))),
       el("div", {class:"go"}, past ? el("span", {class:"kind"}, "Past") : btn, faces, url ? el("a", {class:"lnk", href:url, target:"_blank", rel:"noopener noreferrer"}, "Event page ↗") : null)));

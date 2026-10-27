@@ -152,8 +152,8 @@ function wireFooter(name){
   if (admin){ org.textContent = "Signed in as organiser"; org.disabled = true; return; }
   org.addEventListener("click", () => modal("Organiser sign-in", "For the careers leads only. Enter your email and we'll send you a sign-in link.", { type: "email", placeholder: "Email", autocomplete: "email" }, "Send link",
     async email => {
-      const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname, shouldCreateUser: true } });
-      if (error) throw error;
+      const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname, shouldCreateUser: false } });
+      if (error) return "This email isn't set up as an organiser.";
       return "Check your inbox and open the link on this device.";
     }, true));
 }
