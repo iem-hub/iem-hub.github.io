@@ -1,0 +1,788 @@
+[
+{
+"category": "Contacts",
+"email": "ibcareers@imperial.ac.uk",
+"group": "all",
+"link": "https://imperial-csm.symplicity.com/students/",
+"order": 0,
+"text": "Book 1:1 appointments, workshops and events through Symplicity, or email the team.",
+"title": "Business School Careers",
+"id": "r000"
+},
+{
+"category": "Start here",
+"email": "",
+"group": "all",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 1,
+"text": "Complete it to unlock Symplicity jobs and Careers Consultants. Covers skills and values, target employers, the IB CV and using AI on your CV.",
+"title": "Careers Primer",
+"id": "r001"
+},
+{
+"category": "Visa",
+"email": "",
+"group": "all",
+"link": "https://imperialbusiness.studentcircus.com/",
+"order": 2,
+"text": "UK employers that sponsor Skilled Worker visas. Register with your @ic.ac.uk email.",
+"title": "Student Circus",
+"id": "r002"
+},
+{
+"category": "Visa",
+"email": "",
+"group": "all",
+"link": "https://uktiersponsors.co.uk/",
+"order": 3,
+"text": "Full list of firms with a sponsor licence. A licence does not guarantee sponsorship, and visa questions go to the International Student Office.",
+"title": "UK sponsor register",
+"id": "r003"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "all",
+"link": "https://www.graduatesfirst.com/university-career-services/imperialbs",
+"order": 4,
+"text": "Practise numerical, verbal, logical and situational judgement tests and video interviews.",
+"title": "Graduates First",
+"id": "r004"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "all",
+"link": "https://online.goinglobal.com/",
+"order": 5,
+"text": "Country guides: CV formats, work permits and job trends.",
+"title": "GoinGlobal",
+"id": "r005"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "all",
+"link": "https://www.imperial.ac.uk/admin-services/library/subject-support/business/",
+"order": 6,
+"text": "MarketLine company research, plus free FT, Economist and Bloomberg.",
+"title": "Library business resources",
+"id": "r006"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "all",
+"link": "https://www.theforage.com/",
+"order": 7,
+"text": "Free job simulations designed by employers.",
+"title": "Forage",
+"id": "r007"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "all",
+"link": "https://members.paynegotiation.com/imperial",
+"order": 8,
+"text": "Video tutorials on negotiating offers. Use alongside a Careers Consultant.",
+"title": "PayNegotiation",
+"id": "r008"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "all",
+"link": "https://imperial.targetconnect.net/",
+"order": 9,
+"text": "Central Imperial Careers job board and events (no appointments for Business School students).",
+"title": "JobsLive",
+"id": "r009"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "all",
+"link": "https://imperial.gethighered.global/",
+"order": 10,
+"text": "Talent network for business school students.",
+"title": "HigherEd",
+"id": "r010"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "all",
+"link": "https://mba.workmaze.com/in/recruitmentguidesimp",
+"order": 11,
+"text": "MBA and MSc recruitment guides by sector, some with visa information.",
+"title": "Workmaze guides",
+"id": "r011"
+},
+{
+"category": "Experienced hires",
+"email": "",
+"group": "all",
+"link": "https://imperial-csm.symplicity.com/students/",
+"order": 12,
+"text": "Workshop on Symplicity, Autumn 2026 and Spring 2027.",
+"title": "Job search for experienced hires (3+ years)",
+"id": "r012"
+},
+{
+"category": "Experienced hires",
+"email": "",
+"group": "all",
+"link": "https://www.datagrapevine.com/recruitment/imperial/login",
+"order": 13,
+"text": "12,000+ executive recruiters indexed by specialism.",
+"title": "eGold executive recruiters",
+"id": "r013"
+},
+{
+"category": "Workshops",
+"email": "",
+"group": "all",
+"link": "https://imperial-csm.symplicity.com/students/",
+"order": 14,
+"text": "Smarter job searching, networking, CV writing, LinkedIn, cover letters, interview and assessment centre practice. Book on Symplicity.",
+"title": "Recruitment skills workshops",
+"id": "r014"
+},
+{
+"category": "Workshops",
+"email": "",
+"group": "all",
+"link": "https://canvas.imperial.ac.uk/courses/814/files/123274",
+"order": 15,
+"text": "Kickstart Your Job Search and High Performance Interviewing.",
+"title": "Past workshop slides",
+"id": "r015"
+},
+{
+"category": "Europe",
+"email": "",
+"group": "all",
+"link": "https://canvas.imperial.ac.uk/courses/814/files/2645559",
+"order": 16,
+"text": "EU CV template and strategy. Peak EU hiring is January to March 2027. For EU internships, ask about the 16-month Extended Work Placement, since most EU firms need you enrolled as a student.",
+"title": "European Careers Module",
+"id": "r016"
+},
+{
+"category": "Contacts",
+"email": "ibcareers@imperial.ac.uk",
+"group": "consulting",
+"link": "",
+"order": 17,
+"people": [
+{
+"linkedin": "https://www.linkedin.com/in/markpdaley/",
+"name": "Mark Daley",
+"role": "Consulting Sector Lead"
+},
+{
+"linkedin": "https://www.linkedin.com/in/mila-komarova/",
+"name": "Mila Komarova",
+"role": "Careers Consultant"
+},
+{
+"linkedin": "",
+"name": "Kendall Murphy",
+"role": "Employer Relations, Consulting"
+}
+],
+"text": "Book any of them through Symplicity, or email ibcareers@imperial.ac.uk. Individual emails are not published.",
+"title": "Consulting Sector team",
+"id": "r017"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "consulting",
+"link": "https://casecoach.com/c/",
+"order": 18,
+"text": "Case library, videos and a Practice Room, built by former MBB interviewers. Request access at ibcareers@imperial.ac.uk with your full name, programme and CID.",
+"title": "CaseCoach",
+"id": "r018"
+},
+{
+"category": "Interview prep",
+"email": "",
+"group": "consulting",
+"link": "",
+"order": 19,
+"text": "Available once you have an interview, after 20+ CaseCoach Practice Room cases. Successful students usually do 20 to 40 cases first.",
+"title": "1:1 mock case interviews",
+"id": "r019"
+},
+{
+"category": "Workshops",
+"email": "",
+"group": "consulting",
+"link": "https://imperial-csm.symplicity.com/students/",
+"order": 20,
+"text": "Application Accelerator, Foundations in Case and Fit/PEI Interviewing, Market Sizing, Interpreting Charts, Revenue Growth Strategy, Case Math (run by alumni consultants).",
+"title": "Consulting workshops",
+"id": "r020"
+},
+{
+"category": "Research",
+"email": "",
+"group": "consulting",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 21,
+"text": "Canvas lists consulting firms by sector and function. Aim for 40 to 60 target firms.",
+"title": "Target list of 400+ firms",
+"id": "r021"
+},
+{
+"category": "Timeline",
+"email": "",
+"group": "consulting",
+"link": "",
+"order": 22,
+"text": "Strategy firms interview early November to mid-December. Big Four run assessment centres in spring, with offers from mid-spring. Experienced hires mostly apply in spring.",
+"title": "London recruiting timeline",
+"id": "r022"
+},
+{
+"category": "Slides",
+"email": "",
+"group": "consulting",
+"link": "https://canvas.imperial.ac.uk/courses/814/files/2652097",
+"order": 23,
+"text": "Your path for the year, events and resources.",
+"title": "This is the Way: Consulting 2026",
+"id": "r023"
+},
+{
+"category": "Contacts",
+"email": "ibcareers@imperial.ac.uk",
+"group": "tech",
+"link": "",
+"order": 24,
+"people": [
+{
+"linkedin": "",
+"name": "Robert Preda",
+"role": "Careers Consultant, ex Amazon, Salesforce and Moody's recruiting"
+},
+{
+"linkedin": "https://uk.linkedin.com/in/nanding2011",
+"name": "Nan Ding",
+"role": "Employer Relations, TMT and Healthcare"
+}
+],
+"text": "Book through Symplicity, or email ibcareers@imperial.ac.uk. Individual emails are not published.",
+"title": "TMT Sector team",
+"id": "r024"
+},
+{
+"category": "Workshops",
+"email": "",
+"group": "tech",
+"link": "https://imperial-csm.symplicity.com/students/",
+"order": 25,
+"text": "Product management series: product lifecycle, discovery and customer research, prioritisation and roadmaps, agile, metrics and go-to-market.",
+"title": "The Product Series",
+"id": "r025"
+},
+{
+"category": "Workshops",
+"email": "",
+"group": "tech",
+"link": "https://imperial-csm.symplicity.com/students/",
+"order": 26,
+"text": "Sessions on AI, product management and digital transformation, with case studies and Q&A.",
+"title": "Subject matter expert sessions",
+"id": "r026"
+},
+{
+"category": "Research",
+"email": "",
+"group": "tech",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 27,
+"text": "20+ entry roles described: product (APM, product analyst, UX), marketing, operations, solutions and pre-sales, and sales (SDR, BDR, account executive).",
+"title": "Roles guide",
+"id": "r027"
+},
+{
+"category": "Interview prep",
+"email": "",
+"group": "tech",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 28,
+"text": "Online assessment (coding or numerical), video interview, HR screen, hiring manager interview (prepare 10+ STAR stories), take-home assignment, final interview, offer.",
+"title": "Recruitment journey",
+"id": "r028"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "tech",
+"link": "https://www.imperial.ac.uk/admin-services/ict/training-and-resources/gartner/",
+"order": 29,
+"text": "Technology research through Imperial.",
+"title": "Gartner",
+"id": "r029"
+},
+{
+"category": "Tips",
+"email": "",
+"group": "tech",
+"link": "",
+"order": 30,
+"text": "Bookmark 100+ target employers' careers pages and check weekly. Tailor CVs to job description keywords for applicant tracking systems.",
+"title": "Application tips",
+"id": "r030"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "tech",
+"link": "https://imperial.targetconnect.net/",
+"order": 31,
+"text": "Central Imperial Careers (JobsLive) covers engineering employers.",
+"title": "Engineering roles",
+"id": "r031"
+},
+{
+"category": "Slides",
+"email": "",
+"group": "tech",
+"link": "https://canvas.imperial.ac.uk/courses/814/files/2653294",
+"order": 32,
+"text": "Recruitment timelines, employer events and tools.",
+"title": "This is the Way: TMT 2026",
+"id": "r032"
+},
+{
+"category": "Clubs",
+"email": "",
+"group": "consumer",
+"link": "https://ibconnect.imperial.ac.uk/",
+"order": 33,
+"text": "Events, information sessions and networking with the industry. Join on IB Connect.",
+"title": "FMCG, Luxury Goods and Retail Careers Club",
+"id": "r033"
+},
+{
+"category": "Research",
+"email": "",
+"group": "consumer",
+"link": "https://canvas.imperial.ac.uk/courses/814/files/114966",
+"order": 34,
+"text": "Intro to FMCG, Top 40 Global FMCG Brands, Top 150 UK Food and Drink Companies, Top UK Retailers, Luxury Brand Facts, UK Challenger Brands, Top 100 UK Consultancies.",
+"title": "Sector files on Canvas",
+"id": "r034"
+},
+{
+"category": "Timeline",
+"email": "",
+"group": "consumer",
+"link": "",
+"order": 35,
+"text": "Big agency groups recruit graduates September to December, a second wave runs February to April, and boutiques recruit year round.",
+"title": "Agency recruiting",
+"id": "r035"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "consumer",
+"link": "https://www.wpp.com/careers",
+"order": 36,
+"text": "WPP, Ogilvy, Publicis, Dentsu, Havas and EssenceMediacom post graduate roles on their own sites.",
+"title": "Agency careers pages",
+"id": "r036"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "consumer",
+"link": "https://jobs.campaignlive.co.uk/",
+"order": 37,
+"text": "Advertising and marketing industry jobs.",
+"title": "Campaign Jobs",
+"id": "r037"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "consumer",
+"link": "https://ipa.co.uk/job-listing",
+"order": 38,
+"text": "Agency roles from the Institute of Practitioners in Advertising.",
+"title": "IPA Jobs",
+"id": "r038"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "consumer",
+"link": "https://the-dots.com/",
+"order": 39,
+"text": "Creative industry network with job postings.",
+"title": "The Dots",
+"id": "r039"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "consumer",
+"link": "https://creativeaccess.org.uk/",
+"order": 40,
+"text": "Diversity-focused creative job board.",
+"title": "Creative Access",
+"id": "r040"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "consumer",
+"link": "https://jobs.thegrocer.co.uk/",
+"order": 41,
+"text": "FMCG jobs.",
+"title": "The Grocer Jobs",
+"id": "r041"
+},
+{
+"category": "Contacts",
+"email": "",
+"group": "consumer",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 42,
+"text": "Seven Resourcing, Morepeople, Michael Page, Fidelis, Signature, Midas, Harris Carlton, Korn Ferry, Collingwood Search and more listed on Canvas.",
+"title": "FMCG recruiters",
+"id": "r042"
+},
+{
+"category": "Reading",
+"email": "",
+"group": "consumer",
+"link": "https://www.thegrocer.co.uk/",
+"order": 43,
+"text": "IGD, The Grocer, Marketing Week, Campaign, Mintel and Euromonitor (through the library), WeAreYF for challenger brands.",
+"title": "Industry news",
+"id": "r043"
+},
+{
+"category": "Europe",
+"email": "",
+"group": "consumer",
+"link": "",
+"order": 44,
+"text": "6-month internships starting June or July are applied for January to March.",
+"title": "EU FMCG and luxury internships",
+"id": "r044"
+},
+{
+"category": "Slides",
+"email": "",
+"group": "consumer",
+"link": "https://canvas.imperial.ac.uk/courses/814/files/2652112",
+"order": 45,
+"text": "Sector overview, events and timeline.",
+"title": "This is the Way: FMCG 2026",
+"id": "r045"
+},
+{
+"category": "Contacts",
+"email": "ibcareers@imperial.ac.uk",
+"group": "finance",
+"link": "",
+"order": 46,
+"people": [
+{
+"linkedin": "https://www.linkedin.com/in/luke-morton-920754a9/",
+"name": "Luke Morton",
+"role": "Finance Sector Lead, ex J.P. Morgan and Barclays recruiting"
+},
+{
+"linkedin": "",
+"name": "Katherine Holdstock",
+"role": "Careers Consultant"
+},
+{
+"linkedin": "https://www.linkedin.com/in/anitaborkowska/",
+"name": "Anita Borkowska",
+"role": "Employer Relations, Finance"
+}
+],
+"text": "Book through Symplicity, or email ibcareers@imperial.ac.uk. Individual emails are not published.",
+"title": "Finance Sector team",
+"id": "r046"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "finance",
+"link": "",
+"order": 47,
+"text": "Financial modelling, the Red Book of interview questions and a Venture Capital course. Request access at ibcareers@imperial.ac.uk.",
+"title": "Wall Street Prep",
+"id": "r047"
+},
+{
+"category": "Workshops",
+"email": "",
+"group": "finance",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 48,
+"text": "Autumn 2026: M&A, PE and VC; Sales, Trading and Investment Management; Behavioural Fit; Quant and Risk.",
+"title": "Technical interview webinars",
+"id": "r048"
+},
+{
+"category": "Interview prep",
+"email": "",
+"group": "finance",
+"link": "https://imperial-csm.symplicity.com/students/",
+"order": 49,
+"text": "40-minute mock interviews with a Careers Consultant, plus an external finance expert for technical interviews, 1:1 or small group.",
+"title": "Mock and technical interviews",
+"id": "r049"
+},
+{
+"category": "Interview prep",
+"email": "",
+"group": "finance",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 50,
+"text": "Real questions from Goldman Sachs, JPMorgan, Morgan Stanley, BofA, UBS, Lazard, Evercore, BlackRock, HSBC and Blackstone, on Canvas.",
+"title": "HireVue question bank",
+"id": "r050"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "finance",
+"link": "https://hsbc.preparationplus.com/",
+"order": 51,
+"text": "Practise online immersive assessments and job simulations.",
+"title": "HSBC Preparation Hub",
+"id": "r051"
+},
+{
+"category": "Tools",
+"email": "",
+"group": "finance",
+"link": "https://barclayslifeskills.com/",
+"order": 52,
+"text": "Practice reasoning, situational judgement and personality tests.",
+"title": "Barclays LifeSkills",
+"id": "r052"
+},
+{
+"category": "Timeline",
+"email": "",
+"group": "finance",
+"link": "",
+"order": 53,
+"text": "Summer internships, off-cycle internships, grad programmes and grad roles all open in autumn 2026, many rolling. Experienced hires apply 2 to 3 months before the start date.",
+"title": "Recruitment markets",
+"id": "r053"
+},
+{
+"category": "Tips",
+"email": "",
+"group": "finance",
+"link": "",
+"order": 54,
+"text": "Keep to about two thirds of a page: intro, why me, why the firm, why the role, close.",
+"title": "Cover letters",
+"id": "r054"
+},
+{
+"category": "Clubs",
+"email": "",
+"group": "finance",
+"link": "",
+"order": 55,
+"text": "The I&E club runs VC and founder events (sign-up and fee). Proximo Ventures campus leads are on IEM.",
+"title": "VC: I&E careers club and Proximo",
+"id": "r055"
+},
+{
+"category": "Slides",
+"email": "",
+"group": "finance",
+"link": "https://canvas.imperial.ac.uk/courses/814/files/2656444",
+"order": 56,
+"text": "Slides and FAQs.",
+"title": "This is the Way: Finance 2026",
+"id": "r056"
+},
+{
+"category": "Programmes",
+"email": "",
+"group": "building",
+"link": "https://www.imperialenterpriselab.com/",
+"order": 57,
+"text": "Competitions, hackathons, seminars, bookable coworking and 150+ coaches and mentors.",
+"title": "Imperial Enterprise Lab",
+"id": "r057"
+},
+{
+"category": "Programmes",
+"email": "",
+"group": "building",
+"link": "https://www.imperialenterpriselab.com/programmes/vcc/",
+"order": 58,
+"text": "Imperial's flagship startup competition in five tracks: Creative and Consumer, Digital Finance, Energy and Environment, Health and Wellbeing, AI and Robotics.",
+"title": "Venture Catalyst Challenge",
+"id": "r058"
+},
+{
+"category": "Programmes",
+"email": "",
+"group": "building",
+"link": "https://www.imperialenterpriselab.com/programmes/",
+"order": 59,
+"text": "Training plus £250 microgrants to test an early idea.",
+"title": "Discovery Fund",
+"id": "r059"
+},
+{
+"category": "Programmes",
+"email": "",
+"group": "building",
+"link": "https://www.imperialenterpriselab.com/programmes/we-innovate/",
+"order": 60,
+"text": "Programmes for women-led ventures, from first idea to investment-ready.",
+"title": "WE Innovate and WE Accelerate",
+"id": "r060"
+},
+{
+"category": "Programmes",
+"email": "",
+"group": "building",
+"link": "https://www.imperial.ac.uk/business-school/faculty-research/research-centres/gandhi-centre-inclusive-innovation/key-initiatives/ideas/",
+"order": 61,
+"text": "Gandhi Centre competition for student founders solving global challenges.",
+"title": "Ideas to Impact Challenge",
+"id": "r061"
+},
+{
+"category": "Spaces",
+"email": "",
+"group": "building",
+"link": "https://imperialhackspace.com/",
+"order": 62,
+"text": "Imperial's prototyping hub at White City, with workshops and grants.",
+"title": "Advanced Hackspace",
+"id": "r062"
+},
+{
+"category": "Spaces",
+"email": "",
+"group": "building",
+"link": "https://imperialincubator.com/",
+"order": 63,
+"text": "Support and space for deep science startups.",
+"title": "White City Incubator",
+"id": "r063"
+},
+{
+"category": "Accelerators",
+"email": "",
+"group": "building",
+"link": "https://rankings.ft.com/incubator-accelerator-programmes-europe",
+"order": 64,
+"text": "Entrepreneur First, Startupbootcamp, Founders Factory, Bethnal Green Ventures, Upscale, L Marks.",
+"title": "London accelerators",
+"id": "r064"
+},
+{
+"category": "Visa",
+"email": "",
+"group": "building",
+"link": "https://www.imperial.ac.uk/students/international-students/visas-and-immigration/working-in-the-uk/working-in-the-uk-after-your-studies/innovator/",
+"order": 65,
+"text": "Imperial does not endorse this visa. Approved endorsing bodies include UK Endorsing Services, Innovator International and Envestors. You can switch only after finishing your course.",
+"title": "Innovator Founder visa",
+"id": "r065"
+},
+{
+"category": "Reading",
+"email": "",
+"group": "building",
+"link": "https://www.imperialenterpriselab.com/d-srupt/",
+"order": 66,
+"text": "Enterprise Lab Slack and D/srupt magazine, Sifted for European startup news.",
+"title": "Stay in the loop",
+"id": "r066"
+},
+{
+"category": "Start here",
+"email": "",
+"group": "starting",
+"link": "https://canvas.imperial.ac.uk/courses/814/modules",
+"order": 67,
+"text": "Canvas exercises on myths, personal qualities, gaps and bridges, and SMART goals, then a Careers Consultant appointment.",
+"title": "Is entrepreneurship for you?",
+"id": "r067"
+},
+{
+"category": "Programmes",
+"email": "",
+"group": "starting",
+"link": "https://www.imperialenterpriselab.com/programmes/",
+"order": 68,
+"text": "Enterprise Lab Discovery Fund (£250 microgrants) and hackathons.",
+"title": "Test an idea",
+"id": "r068"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "starting",
+"link": "https://jobs.sifted.eu/",
+"order": 69,
+"text": "Roles at European startups.",
+"title": "Sifted Jobs",
+"id": "r069"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "starting",
+"link": "https://workinstartups.com/",
+"order": 70,
+"text": "UK startup jobs.",
+"title": "Work in Startups",
+"id": "r070"
+},
+{
+"category": "Job boards",
+"email": "",
+"group": "starting",
+"link": "https://www.ukstartupjobs.com/",
+"order": 71,
+"text": "Startup roles across the UK.",
+"title": "UK Startup Jobs",
+"id": "r071"
+},
+{
+"category": "Clubs",
+"email": "",
+"group": "starting",
+"link": "",
+"order": 72,
+"text": "Tech Nation, British Asian Entrepreneurs, Entrepreneurs Collective (female founder events), Young Entrepreneurs Forum.",
+"title": "Founder communities",
+"id": "r072"
+},
+{
+"category": "Reading",
+"email": "",
+"group": "starting",
+"link": "",
+"order": 73,
+"text": "The Lean Startup, The Mom Test, Testing Business Ideas, Running Lean, Zero to One. Podcasts: Masters of Scale, 20 Minute VC, a16z.",
+"title": "Books and podcasts",
+"id": "r073"
+}
+]

@@ -1,0 +1,80 @@
+[
+{
+"date": "2026-11-03",
+"end": "13:00",
+"for": [
+"Consulting",
+"Tech and Product",
+"Consumer, Media and Marketing",
+"Finance and VC"
+],
+"link": "",
+"location": "Imperial Business School, room TBC",
+"start": "11:00",
+"status": "Proposed",
+"text": "Bring your CV and a cover letter for a role you're applying to. We pair you with someone in your sector to swap and give feedback using a short checklist.",
+"title": "CV and cover letter swaps",
+"id": "e-cv"
+},
+{
+"date": "2026-11-06",
+"end": "13:00",
+"for": [
+"Founders",
+"Everyone curious"
+],
+"link": "https://www.imperialenterpriselab.com/",
+"location": "Imperial Enterprise Lab, South Kensington",
+"start": "11:00",
+"status": "Proposed",
+"text": "An informal group visit to the Enterprise Lab to see the space and hear about its programmes, competitions and mentors.",
+"title": "Enterprise Lab visit",
+"id": "e-lab"
+},
+{
+"date": "2026-12-03",
+"end": "",
+"for": [
+"Finance and VC",
+"Founders"
+],
+"link": "https://www.londonvcnetwork.com/vcwinterball",
+"location": "London, venue TBC",
+"start": "",
+"status": "Pending",
+"text": "London Venture Capital Network's annual ball with VCs, founders and LPs. Message Djamila if you'd like to go.",
+"title": "LVCN VC Winter Ball",
+"id": "e-lvcn"
+},
+{
+"date": "2026-11-20",
+"end": "13:00",
+"for": [
+"Founders: Building",
+"Founders: Starting Out"
+],
+"link": "",
+"location": "Imperial Business School, room TBC",
+"start": "11:00",
+"status": "Proposed",
+"text": "Pitch an idea in a few minutes, get feedback and find teammates.",
+"title": "Pitch your idea, with a prize",
+"id": "e-pitch"
+},
+{
+"date": "2026-11-17",
+"end": "13:00",
+"for": [
+"Consulting",
+"Finance and VC",
+"Tech and Product"
+],
+"link": "",
+"location": "Imperial Business School, room TBC",
+"start": "11:00",
+"status": "Proposed",
+"text": "Practice in small groups by sector: case interviews for Consulting, technical questions for Finance and VC, and product cases for Tech and Product.",
+"title": "Technical prep and case studies",
+"id": "e-tech"
+}
+]
