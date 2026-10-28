@@ -150,6 +150,7 @@ function wireFooter(name){
   document.getElementById("nm-edit").addEventListener("click", async () => askName(await myName()));
   const org = document.getElementById("org-in");
   if (admin){ org.textContent = "Signed in as organiser"; org.disabled = true; return; }
+  if (!/[?&]organiser\b/.test(location.search)){ org.hidden = true; return; }
   org.addEventListener("click", () => modal("Organiser sign-in", "For the careers leads only. Enter your email and we'll send you a sign-in link.", { type: "email", placeholder: "Email", autocomplete: "email" }, "Send link",
     async email => {
       const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname, shouldCreateUser: false } });
