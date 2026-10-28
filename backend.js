@@ -138,7 +138,7 @@ async function saveName(name){
 
 function askName(current){
   modal(current ? "Change your name" : "Welcome to IEM Careers",
-    current ? "This is the name the careers leads see when you tick an opening or say you're going." : "What's your name? It shows on the openings you tick and helps the careers leads plan events. You only need to do this once on this device.",
+    current ? "This is the name the careers leads see when you tick an opening or say you're going." : (() => { const f = document.createDocumentFragment(); f.append("What's your name?", document.createElement("br"), el("em", {}, "You only need to do this once on this device.")); return f; })(),
     { placeholder: "First and last name", value: current, autocomplete: "name" }, current ? "Save" : "Continue",
     async v => { await saveName(v); }, !!current);
 }
