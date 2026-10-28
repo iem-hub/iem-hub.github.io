@@ -103,6 +103,7 @@ tr.mine td{background:color-mix(in srgb, var(--accent) 6%, transparent)}
 .al-card strong{font-family:var(--display);font-size:20px;line-height:1.15}
 .al-card span:not(.kind){color:var(--muted);font-size:14px;line-height:1.45}
 .al-card em{font-style:normal;font-weight:600;color:var(--accent);font-size:14px;margin-top:4px}
+.al-req{border-style:dashed;max-width:560px}
 .al-card.top{border-color:var(--accent);background:linear-gradient(180deg,var(--track),var(--surface) 70%)}
 .al-side{position:sticky;top:16px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;display:grid;gap:10px;max-height:calc(100vh - 32px);overflow:auto}
 @media (max-width:900px){.al-side{position:static;max-height:none}}
@@ -228,8 +229,10 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,th
     <div class="al-wrap">
       <div class="al-main">
         <h2 class="pick-h" style="margin-bottom:4px">Find IEM alumni</h2>
-        <p class="note">Each card opens a LinkedIn search of Imperial alumni who list the MSc Innovation, Entrepreneurship and Management, filtered by path. Results open in your own LinkedIn, so sign in there first. Current students show up too: look for past dates or "Alumni" in their profile. 2nd-degree connections are the easiest to reach.</p>
+        <p class="note">Search Imperial alumni who list the MSc Innovation, Entrepreneurship and Management. Results open in your own LinkedIn, so sign in there first. Current students show up too: look for past dates in their profile. 2nd-degree connections are the easiest to reach.</p>
         <div class="al-grid" id="al-grid"></div>
+        <a class="al-card al-req" href="https://docs.google.com/spreadsheets/d/1IXQoG5iAwPLnffTfJFf4PQmvmRUvqK3C1B70YlrpNnM/edit" target="_blank" rel="noopener noreferrer"><span class="kind">Curated list</span><strong>IEM alumni list</strong><span>A checked list of IEM alumni by path: founders, startup teams, VC and careers by sector, with why each is worth contacting. Open it and press "Request access" with your Imperial email: the careers leads approve IEM students.</span><em>Request access ↗</em></a>
+        <p class="note">The list is for IEM networking only: please don't share or copy it. When you reach out, say you found them through the IEM alumni list.</p>
       </div>
       <aside class="al-side" aria-label="Outreach templates">
         <h3>Reach out</h3>
@@ -404,18 +407,10 @@ function renderPick(){
 const LI = "https://www.linkedin.com/search/results/people/?schoolFilter=%5B%225106%22%5D&keywords=";
 const IEM = '"Innovation, Entrepreneurship and Management"';
 const ALUMNI = [
-  {top:true, kind:"Founders", title:"Building their own startup", text:"Alumni who founded or co-founded a company. Great for advice on getting started, funding and accelerators.", q:IEM + " (founder OR co-founder)"},
-  {top:true, kind:"Startups", title:"Working in a startup", text:"Early hires, founder's associates and operators at startups and scale-ups.", q:IEM + " (startup OR \"founder's associate\" OR \"chief of staff\")"},
-  {top:true, kind:"Venture capital", title:"In VC and investing", text:"Analysts and associates at VC funds, angels and investment teams.", q:IEM + " (\"venture capital\" OR VC OR investor)"},
-  {kind:"Consulting", title:"Consulting careers", text:"Strategy, management and Big Four consultants.", q:IEM + " (consultant OR consulting)"},
-  {kind:"Tech and Product", title:"Tech and product careers", text:"Product managers, analysts and strategy roles at tech companies.", q:IEM + " (\"product manager\" OR product OR tech)"},
-  {kind:"Consumer and Marketing", title:"Brand, marketing and media", text:"Marketing, brand and commercial roles at consumer, luxury and media firms.", q:IEM + " (marketing OR brand OR luxury)"},
-  {kind:"Finance", title:"Banking and finance", text:"Investment banking, asset management, PE and corporate finance.", q:IEM + " (banking OR \"private equity\" OR finance)"},
-  {kind:"Innovation", title:"Corporate innovation", text:"Innovation, strategy and new-venture teams inside large companies.", q:IEM + " (innovation OR strategy) -founder"},
-  {kind:"Everyone", title:"All IEM alumni", text:"Everyone at Imperial who lists the IEM programme. Browse freely.", q:IEM}
+  {top:true, kind:"LinkedIn", title:"All IEM alumni", text:"Everyone at Imperial who lists the MSc Innovation, Entrepreneurship and Management. Use LinkedIn's own filters (company, location, connections) to narrow it down.", q:IEM}
 ];
 const TEMPLATES = [
-  {id:"conn", title:"Connection note", limit:200, text:"Hi {name}, I'm on the MSc IEM at Imperial and saw you did it too. I'm exploring {topic} and would love to hear how you got to {org}. Happy to connect!"},
+  {id:"conn", title:"Connection note", limit:200, text:"Hi {name}, I'm on the MSc IEM at Imperial and found you via our alumni list. Exploring {topic}, I'd love to hear how you got to {org}. Happy to connect!"},
   {id:"founder", title:"Note to a founder", limit:200, text:"Hi {name}, fellow Imperial IEM here. I really admire what you're building at {org} and I'm keen to learn from founders who did the course. Would love to connect!"},
   {id:"chat", title:"Coffee chat (after they accept)", text:"Hi {name}, thanks for connecting! I'm {me}, currently on the MSc IEM at Imperial. I'm looking into {topic} and your path to {org} really stood out.\n\nWould you be open to a quick 15-minute call in the next couple of weeks? I'd love to hear what you wish you'd known during the course and how you got your role. Happy to work around your schedule.\n\nThanks so much,\n{me}"},
   {id:"ref", title:"Referral ask (after a chat)", text:"Hi {name}, thanks again for your time last week, it was really helpful. I've now applied for [role] at {org}, as we discussed. If you're comfortable, would you be willing to refer me or pass my CV to the team? I've attached it here, and I'm happy to send anything else that helps.\n\nThank you,\n{me}"},
