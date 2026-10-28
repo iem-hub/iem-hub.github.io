@@ -94,6 +94,28 @@ tr.mine td{background:color-mix(in srgb, var(--accent) 6%, transparent)}
 .big.soon:hover{border-color:var(--line);transform:none}
 .big.soon em{color:var(--muted)}
 .soon-tag{font-weight:500;background:var(--sun-soft);color:var(--ink);border-radius:5px;padding:1px 6px;margin-left:6px;letter-spacing:.03em}
+.al-wrap{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:22px;align-items:start;margin-top:12px}
+@media (max-width:900px){.al-wrap{grid-template-columns:1fr}}
+.al-main{display:grid;gap:10px;min-width:0}
+.al-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin-top:8px}
+.al-card{display:grid;gap:6px;align-content:start;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--ink);text-decoration:none;transition:border-color .15s, transform .15s}
+.al-card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.al-card strong{font-family:var(--display);font-size:20px;line-height:1.15}
+.al-card span:not(.kind){color:var(--muted);font-size:14px;line-height:1.45}
+.al-card em{font-style:normal;font-weight:600;color:var(--accent);font-size:14px;margin-top:4px}
+.al-card.top{border-color:var(--accent);background:linear-gradient(180deg,var(--track),var(--surface) 70%)}
+.al-side{position:sticky;top:16px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;display:grid;gap:10px;max-height:calc(100vh - 32px);overflow:auto}
+@media (max-width:900px){.al-side{position:static;max-height:none}}
+.al-side h3{margin:0;font-family:var(--display);font-size:22px}
+.al-fields{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.al-fields input{font:inherit;font-size:13.5px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);min-width:0}
+.tp-list{display:grid;gap:10px}
+.tp{border:1px solid var(--line);border-radius:12px;padding:12px;display:grid;gap:8px;background:var(--bg)}
+.tp-h{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.tp-h b{font-size:14px}
+.tp p{margin:0;font-size:13.5px;line-height:1.5;white-space:pre-wrap;color:var(--ink)}
+.tp .cnt{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.tp .cnt.over{color:var(--warn)}
 .kind{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .crumbs{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
 .crumbs a{color:var(--accent);text-decoration:none;font-weight:600;font-size:14px;cursor:pointer}
@@ -197,9 +219,31 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,th
   </section>
 
   <section id="v-al" class="home" hidden>
-    <div class="big soon" aria-disabled="true"><span class="kind">Network <b class="soon-tag">Coming soon</b></span><strong>Alumni</strong><span>IEM alumni by sector and company, to network and reach out for advice, coffee chats and referrals.</span><em>Coming soon</em></div>
+    <a class="big" href="#alumni"><span class="kind">Network</span><strong>Alumni</strong><span>Find IEM alumni by path: founders, startup teams and careers by sector, with ready-to-use LinkedIn notes to reach out.</span><em>Find alumni →</em></a>
   </section>
 
+
+  <section id="v-alumni" hidden>
+    <div class="crumbs"><a href="#home">← Home</a><span class="kind">Alumni</span></div>
+    <div class="al-wrap">
+      <div class="al-main">
+        <h2 class="pick-h" style="margin-bottom:4px">Find IEM alumni</h2>
+        <p class="note">Each card opens a LinkedIn search of Imperial alumni who list the MSc Innovation, Entrepreneurship and Management, filtered by path. Results open in your own LinkedIn, so sign in there first. Current students show up too: look for past dates or "Alumni" in their profile. 2nd-degree connections are the easiest to reach.</p>
+        <div class="al-grid" id="al-grid"></div>
+      </div>
+      <aside class="al-side" aria-label="Outreach templates">
+        <h3>Reach out</h3>
+        <p class="note">Fill in the details once and every template updates. Free LinkedIn accounts allow a 200-character note with a connection request.</p>
+        <div class="al-fields">
+          <input id="tp-name" placeholder="Their first name" maxlength="40">
+          <input id="tp-org" placeholder="Their company or startup" maxlength="60">
+          <input id="tp-topic" placeholder="Your interest, e.g. product roles" maxlength="60">
+          <input id="tp-me" placeholder="Your first name" maxlength="40">
+        </div>
+        <div id="tp-list" class="tp-list"></div>
+      </aside>
+    </div>
+  </section>
 
   <section id="v-pick" hidden>
     <div class="crumbs"><a href="#home">← Home</a><span id="pick-mode"></span></div>
@@ -321,6 +365,7 @@ function parseHash(){
   const h = navHash !== null ? navHash : (location.hash || "").replace("#","");
   if (!h || h === "home") return {mode:"home"};
   if (h === "events") return {mode:"events"};
+  if (h === "alumni") return {mode:"alumni"};
   if (GROUPS.some(g => g.id === h)) return {mode:"trackers", group:h};
   const [m, g] = h.split("-");
   if (m !== "trackers" && m !== "resources") return {mode:"home"};
@@ -331,10 +376,12 @@ function route(){
   const r = parseHash();
   $("v-home").hidden = r.mode !== "home"; $("v-up").hidden = r.mode !== "home"; $("v-al").hidden = r.mode !== "home";
   $("v-pick").hidden = !r.pick;
-  $("v-main").hidden = r.mode === "home" || r.mode === "events" || !!r.pick;
+  $("v-main").hidden = r.mode === "home" || r.mode === "events" || r.mode === "alumni" || !!r.pick;
+  $("v-alumni").hidden = r.mode !== "alumni";
   $("v-events").hidden = r.mode !== "events";
   if (r.mode === "home"){ document.title = "IEM Careers"; return; }
   mode = r.mode;
+  if (mode === "alumni"){ document.title = "Alumni · IEM Careers"; renderAlumni(); return; }
   if (mode === "events"){ renderEvents(); return; }
   if (r.pick){ renderPick(); return; }
   group = r.group; try { localStorage.setItem("iem-tracker-group", group); } catch(e){}
@@ -351,6 +398,48 @@ function renderPick(){
   for (const g of GROUPS){
     const n = mode === "trackers" ? openings.filter(o => o.group === g.id && !(isDate(o.deadline) && daysTo(o.deadline) < 0)).length + " openings" : resources.filter(r => r.group === g.id).length + " resources";
     box.append(el("a", {class:"gcard", href:"#" + mode + "-" + g.id}, el("strong", {}, g.name), el("span", {}, GDESC[g.id]), el("span", {class:"kind", style:"margin-top:4px"}, n)));
+  }
+}
+
+const LI = "https://www.linkedin.com/search/results/people/?schoolFilter=%5B%225106%22%5D&keywords=";
+const IEM = '"Innovation, Entrepreneurship and Management"';
+const ALUMNI = [
+  {top:true, kind:"Founders", title:"Building their own startup", text:"Alumni who founded or co-founded a company. Great for advice on getting started, funding and accelerators.", q:IEM + " (founder OR co-founder)"},
+  {top:true, kind:"Startups", title:"Working in a startup", text:"Early hires, founder's associates and operators at startups and scale-ups.", q:IEM + " (startup OR \"founder's associate\" OR \"chief of staff\")"},
+  {top:true, kind:"Venture capital", title:"In VC and investing", text:"Analysts and associates at VC funds, angels and investment teams.", q:IEM + " (\"venture capital\" OR VC OR investor)"},
+  {kind:"Consulting", title:"Consulting careers", text:"Strategy, management and Big Four consultants.", q:IEM + " (consultant OR consulting)"},
+  {kind:"Tech and Product", title:"Tech and product careers", text:"Product managers, analysts and strategy roles at tech companies.", q:IEM + " (\"product manager\" OR product OR tech)"},
+  {kind:"Consumer and Marketing", title:"Brand, marketing and media", text:"Marketing, brand and commercial roles at consumer, luxury and media firms.", q:IEM + " (marketing OR brand OR luxury)"},
+  {kind:"Finance", title:"Banking and finance", text:"Investment banking, asset management, PE and corporate finance.", q:IEM + " (banking OR \"private equity\" OR finance)"},
+  {kind:"Innovation", title:"Corporate innovation", text:"Innovation, strategy and new-venture teams inside large companies.", q:IEM + " (innovation OR strategy) -founder"},
+  {kind:"Everyone", title:"All IEM alumni", text:"Everyone at Imperial who lists the IEM programme. Browse freely.", q:IEM}
+];
+const TEMPLATES = [
+  {id:"conn", title:"Connection note", limit:200, text:"Hi {name}, I'm on the MSc IEM at Imperial and saw you did it too. I'm exploring {topic} and would love to hear how you got to {org}. Happy to connect!"},
+  {id:"founder", title:"Note to a founder", limit:200, text:"Hi {name}, fellow Imperial IEM here. I really admire what you're building at {org} and I'm keen to learn from founders who did the course. Would love to connect!"},
+  {id:"chat", title:"Coffee chat (after they accept)", text:"Hi {name}, thanks for connecting! I'm {me}, currently on the MSc IEM at Imperial. I'm looking into {topic} and your path to {org} really stood out.\n\nWould you be open to a quick 15-minute call in the next couple of weeks? I'd love to hear what you wish you'd known during the course and how you got your role. Happy to work around your schedule.\n\nThanks so much,\n{me}"},
+  {id:"ref", title:"Referral ask (after a chat)", text:"Hi {name}, thanks again for your time last week, it was really helpful. I've now applied for [role] at {org}, as we discussed. If you're comfortable, would you be willing to refer me or pass my CV to the team? I've attached it here, and I'm happy to send anything else that helps.\n\nThank you,\n{me}"},
+  {id:"thanks", title:"Thank-you follow-up", text:"Hi {name}, thank you for taking the time to chat today. Your advice on [something they said] was really useful, and I'm going to [what you'll do next]. I'll keep you posted on how it goes!\n\nBest,\n{me}"}
+];
+function renderAlumni(){
+  const g = $("al-grid"); if (!g.childElementCount){
+    for (const a of ALUMNI) g.append(el("a", {class:"al-card" + (a.top ? " top" : ""), href: LI + encodeURIComponent(a.q), target:"_blank", rel:"noopener noreferrer"}, el("span", {class:"kind"}, a.kind), el("strong", {}, a.title), el("span", {}, a.text), el("em", {}, "Search on LinkedIn ↗")));
+    ["tp-name","tp-org","tp-topic","tp-me"].forEach(id => { try { const v = localStorage.getItem("iem-" + id); if (v) $(id).value = v; } catch(e){} $(id).addEventListener("input", () => { try { localStorage.setItem("iem-" + id, $(id).value); } catch(e){} renderTemplates(); }); });
+  }
+  renderTemplates();
+}
+function fillT(t){
+  const v = k => ($("tp-" + k).value || "").trim();
+  return t.replace(/\{name\}/g, v("name") || "[name]").replace(/\{org\}/g, v("org") || "[company]").replace(/\{topic\}/g, v("topic") || "[your interest]").replace(/\{me\}/g, v("me") || "[your name]");
+}
+function renderTemplates(){
+  const box = $("tp-list"); box.replaceChildren();
+  for (const t of TEMPLATES){
+    const txt = fillT(t.text);
+    const btn = el("button", {class:"btn", type:"button"}, "Copy");
+    btn.addEventListener("click", async () => { try { await navigator.clipboard.writeText(txt); btn.textContent = "Copied ✓"; } catch(e){ btn.textContent = "Select and copy"; } setTimeout(() => btn.textContent = "Copy", 1600); });
+    const cnt = t.limit ? el("span", {class:"cnt" + (txt.length > t.limit ? " over" : "")}, txt.length + "/" + t.limit) : null;
+    box.append(el("div", {class:"tp"}, el("div", {class:"tp-h"}, el("b", {}, t.title), cnt), el("p", {}, txt), btn));
   }
 }
 window.addEventListener("hashchange", () => { navHash = (location.hash || "").replace("#",""); route(); });
