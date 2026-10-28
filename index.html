@@ -257,7 +257,7 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,th
   <section id="v-events" hidden style="display:grid;gap:14px">
     <div class="crumbs"><a href="#home">← Home</a><span class="kind">Events</span></div>
     <h2 class="pick-h" style="margin-bottom:0">Upcoming events</h2>
-    <p class="note">Proposed dates may still move.</p>
+    <p class="note">Proposed dates may still move: press "I'm interested" so we can pick the best date, and we'll confirm it here.</p>
     <div class="evlist" id="evlist"></div>
   </section>
 
@@ -285,13 +285,13 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,th
         <th data-k="type" tabindex="0"><span>Type</span></th>
         <th data-k="location" tabindex="0"><span>Location</span></th>
         <th data-k="deadline" tabindex="0" aria-sort="ascending"><span>Deadline</span></th>
-        <th data-k="visa" tabindex="0"><span>Visa</span></th>
+        <th data-k="visa" tabindex="0" title="Can this employer sponsor a UK work visa (Skilled Worker) for this role?"><span>Visa sponsor</span></th>
         <th data-k="count" tabindex="0"><span>Who applied</span></th>
         <th class="nosort"></th>
       </tr></thead>
       <tbody id="rows"></tbody>
     </table></div>
-    <p class="note">Deadlines and visa status come from employers' pages and change often, so check the posting before applying. "Visa: Yes" means the posting offers sponsorship or the employer holds a UK sponsor licence, which does not guarantee it for every role. Hover a visa tag for the reason, and an icon for who it is and their stage. With "Appear as anonymous" on, your ticks show as a grey icon with no name.</p>
+    <p class="note">Deadlines and visa status come from employers' pages and change often, so check the posting before applying. Visa sponsor tells international students whether the employer can sponsor a UK work visa (Skilled Worker) after the Graduate visa: "Yes" means the posting offers sponsorship or the employer holds a UK sponsor licence (not a guarantee for every role), "No" means it doesn't, "Not stated" means we couldn't confirm, and "N/A" is for events, competitions and programmes, which aren't jobs. Hover a visa tag for the reason, and an icon for who it is and their stage. With "Appear as anonymous" on, your ticks show as a grey icon with no name.</p>
   </section>
 
   <section class="card">
@@ -450,7 +450,7 @@ function renderEvents(target, limit){
     const d = new Date(e.date + "T12:00:00");
     const going = Object.entries(rsvp).filter(([id, r]) => r && r.going && r.going[e.id]).map(([id]) => id);
     const mine = !!(uid && going.includes(uid));
-    const btn = el("button", {class:"gobtn", type:"button", "aria-pressed": String(mine), disabled: (!uid || !canWrite) ? "true" : null}, mine ? "Going ✓" : "I'm going");
+    const btn = el("button", {class:"gobtn", type:"button", "aria-pressed": String(mine), disabled: (!uid || !canWrite) ? "true" : null}, e.status === "Confirmed" ? (mine ? "Going ✓" : "I'm going") : (mine ? "Interested ✓" : "I'm interested"));
     btn.addEventListener("click", () => toggleGoing(e.id));
     const faces = el("div", {class:"faces"});
     if (amOwner) going.slice(0, 8).forEach(id => { const p = profiles[id] || {}; const anon = !!(people[id] && people[id].anon); const f = (anon && id !== uid) ? el("span", {class:"face ghost"}, "?") : el("span", {class:"face"}, el("img", {src: p.avatarUrl || "", alt:""})); hover(f, id === uid ? "You" : anon ? "Anonymous member" : (p.name || "A member")); faces.append(f); });
@@ -526,8 +526,10 @@ function renderTable(){
     const url = safeUrl(o.link);
     const dlText = isDate(o.deadline) ? new Date(o.deadline + "T12:00:00").toLocaleDateString("en-GB", {day:"numeric", month:"short", year:"numeric"}) : (o.deadline || "Not stated");
     const badge = closed ? "Closed" : soon ? (d === 0 ? "Closes today" : d + " days left") : (o.status === "Opening soon" ? "Opening soon" : "");
-    const vpill = el("span", {class:"pill " + (o.visa === "Yes" ? "v-yes" : o.visa === "No" ? "v-no" : "v-unk")}, o.visa || "Unknown");
-    if (o.visaNote) hover(vpill, o.visaNote);
+    const NOVISA = ["Event","Competition","Accelerator","Grant","Programme"];
+    const na = NOVISA.includes(o.type);
+    const vpill = na ? el("span", {class:"pill v-unk"}, "N/A") : el("span", {class:"pill " + (o.visa === "Yes" ? "v-yes" : o.visa === "No" ? "v-no" : "v-unk")}, o.visa === "Yes" ? "Yes" : o.visa === "No" ? "No" : "Not stated");
+    if (na) hover(vpill, "Not a job, so visa sponsorship doesn't apply"); else if (o.visaNote) hover(vpill, o.visaNote);
 
     const mine = myStage(o.id);
     const cb = el("input", {type:"checkbox", id:"cb-"+o.id, "aria-label":"I applied to " + o.org + " " + o.role});
