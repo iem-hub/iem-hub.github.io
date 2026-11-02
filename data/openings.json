@@ -2,6 +2,7 @@
 {
 "deadline": "2026-10-27",
 "group": "consulting",
+"id": "c00",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/at-kearney/business-analyst-london-2027-aj20",
 "location": "London",
 "org": "Kearney",
@@ -10,12 +11,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "A.T. Kearney Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c00"
+"visaNote": "A.T. Kearney Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2026-10-27",
 "group": "consulting",
+"id": "c01",
 "link": "https://kearney.recsolu.com/jobs/iBnQEb8j5d7Hj4jYL1uP5g?job_board_id=EPd41qlA4_03IncZMnWyRQ",
 "location": "London",
 "org": "Kearney",
@@ -24,12 +25,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "A.T. Kearney Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c01"
+"visaNote": "A.T. Kearney Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c02",
 "link": "https://kearney.recsolu.com/jobs/1VhVccCz0GUXkX1q5lPE0g?job_board_id=EPd41qlA4_03IncZMnWyRQ",
 "location": "Paris, France",
 "org": "Kearney",
@@ -38,12 +39,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "France role; posting does not mention visa",
-"id": "c02"
+"visaNote": "France role; posting does not mention visa"
 },
 {
 "deadline": "2026-11-01",
 "group": "consulting",
+"id": "c03",
 "link": "https://careers.occstrategy.com/vacancies/388/associate-consultant-2027-28--strategy-london-office.html",
 "location": "London",
 "org": "OC&C Strategy Consultants",
@@ -52,12 +53,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: limited number of visa sponsorships available",
-"id": "c03"
+"visaNote": "Posting: limited number of visa sponsorships available"
 },
 {
 "deadline": "2026-11-08",
 "group": "consulting",
+"id": "c04",
 "link": "https://careers.occstrategy.com/vacancies/389/associate-consultant-2027-28--analytics-london-office.html",
 "location": "London",
 "org": "OC&C Strategy Consultants",
@@ -66,12 +67,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: limited number of visa sponsorships available",
-"id": "c04"
+"visaNote": "Posting: limited number of visa sponsorships available"
 },
 {
 "deadline": "2027-01-04",
 "group": "consulting",
+"id": "c05",
 "link": "https://careers.occstrategy.com/vacancies/392/associate-consultant-summer-internship-2027-london-office.html",
 "location": "London",
 "org": "OC&C Strategy Consultants",
@@ -80,12 +81,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting: limited number of visa sponsorships available",
-"id": "c05"
+"visaNote": "Posting: limited number of visa sponsorships available"
 },
 {
 "deadline": "2026-10-25",
 "group": "consulting",
+"id": "c06",
 "link": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4118-London-Office-Associate-entry-level-Generalist-2027/en-GB",
 "location": "London",
 "org": "L.E.K. Consulting",
@@ -94,12 +95,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c06"
+"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2026-10-25",
 "group": "consulting",
+"id": "c07",
 "link": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4119-London-Office-Associate-entry-level-Life-Sciences-2027/en-GB",
 "location": "London",
 "org": "L.E.K. Consulting",
@@ -108,12 +109,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c07"
+"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2027-01-03",
 "group": "consulting",
+"id": "c08",
 "link": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4121-London-Office-Summer-Associate-2027/en-GB",
 "location": "London",
 "org": "L.E.K. Consulting",
@@ -122,12 +123,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c08"
+"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2026-12-04",
 "group": "consulting",
+"id": "c09",
 "link": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4145-Strategy-Consultant-Industrials-M-F-D-London-Office-Hybrid-Arrangement/en-GB",
 "location": "London",
 "org": "L.E.K. Consulting",
@@ -136,12 +137,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c09"
+"visaNote": "L.E.K. Consulting LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2026-10-25",
 "group": "consulting",
+"id": "c10",
 "link": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4066-Munich-Office-Associate-m-f-d-Entry-level-position-Start-March-2027/en-GB",
 "location": "Munich, Germany",
 "org": "L.E.K. Consulting",
@@ -150,12 +151,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Germany role; posting does not mention visa",
-"id": "c10"
+"visaNote": "Germany role; posting does not mention visa"
 },
 {
 "deadline": "2026-11-29",
 "group": "consulting",
+"id": "c11",
 "link": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4139-Madrid-Office-Generalist-Associate-Intern-m-f-d-March-2027-6-months/en-GB",
 "location": "Madrid, Spain",
 "org": "L.E.K. Consulting",
@@ -164,12 +165,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Spain role; posting does not mention visa",
-"id": "c11"
+"visaNote": "Spain role; posting does not mention visa"
 },
 {
 "deadline": "Not stated",
 "group": "consulting",
+"id": "c13",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Summer+Internship&LAYER2=EY-Parthenon&LAYER3=Strategy+%28Public+and+Private%29&LAYER4=London&LAYER5=July+2027&cookieCheck=true",
 "location": "London",
 "org": "EY-Parthenon",
@@ -178,12 +179,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated; posting says interns must be UK-based for whole programme",
-"id": "c13"
+"visaNote": "Not stated; posting says interns must be UK-based for whole programme"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c14",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operations&LAYER4=London&LAYER5=September+2027&cookieCheck=true",
 "location": "London",
 "org": "EY-Parthenon",
@@ -192,12 +193,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Ernst & Young LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c14"
+"visaNote": "Ernst & Young LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c15",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Summer+Internship&LAYER2=EY-Parthenon&LAYER3=Operations&LAYER4=London&LAYER5=July+2027&cookieCheck=true",
 "location": "London",
 "org": "EY-Parthenon",
@@ -206,12 +207,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "c15"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c16",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Economic+Advisory&LAYER4=London&LAYER5=September+2027&cookieCheck=true",
 "location": "London",
 "org": "EY-Parthenon",
@@ -220,12 +221,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Ernst & Young LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c16"
+"visaNote": "Ernst & Young LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c17",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Decision+Modelling&LAYER4=London&LAYER5=September+2027&cookieCheck=true",
 "location": "London",
 "org": "EY-Parthenon",
@@ -234,12 +235,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Ernst & Young LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c17"
+"visaNote": "Ernst & Young LLP is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2026-10-26",
 "group": "consulting",
+"id": "c18",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/risk-controls-consulting-strategy-transformation-graduate-scheme-2027-2",
 "location": "London",
 "org": "Deloitte",
@@ -248,12 +249,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: Student visa holders can apply; Deloitte immigration team handles visa (not if previously on Skilled Worker/Graduate visa)",
-"id": "c18"
+"visaNote": "Posting: Student visa holders can apply; Deloitte immigration team handles visa (not if previously on Skilled Worker/Graduate visa)"
 },
 {
 "deadline": "2026-10-26",
 "group": "consulting",
+"id": "c19",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/risk-controls-consulting-reputation-crisis-resilience-graduate-scheme-2027",
 "location": "London",
 "org": "Deloitte",
@@ -262,12 +263,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: Student visa holders can apply; Deloitte immigration team handles visa (not if previously on Skilled Worker/Graduate visa)",
-"id": "c19"
+"visaNote": "Posting: Student visa holders can apply; Deloitte immigration team handles visa (not if previously on Skilled Worker/Graduate visa)"
 },
 {
 "deadline": "2026-12-31",
 "group": "consulting",
+"id": "c21",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alpha-fmc/asset-and-wealth-management-consulting-graduate-analyst-2027",
 "location": "London",
 "org": "Alpha FMC",
@@ -276,12 +277,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated; posting asks for UK right to work",
-"id": "c21"
+"visaNote": "Not stated; posting asks for UK right to work"
 },
 {
 "deadline": "2026-11-01",
 "group": "consulting",
+"id": "c22",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alpha-fmc/insurance-consulting-intern-2027",
 "location": "London",
 "org": "Alpha FMC",
@@ -290,12 +291,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated; posting asks for UK right to work",
-"id": "c22"
+"visaNote": "Not stated; posting asks for UK right to work"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c23",
 "link": "https://newton.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/spa-1/candidate/so/pm/1/pl/2/opp/35/apply?instant=apply",
 "location": "UK (induction Kingston Bagpuize, Oxon; client sites)",
 "org": "Newton",
@@ -304,12 +305,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Careers page: Newton can sponsor students on Skilled Worker visas",
-"id": "c23"
+"visaNote": "Careers page: Newton can sponsor students on Skilled Worker visas"
 },
 {
 "deadline": "2027-01-31",
 "group": "consulting",
+"id": "c24",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/inverto/summer-internship-procurement-supply-chain-consulting",
 "location": "London",
 "org": "Inverto (a BCG company)",
@@ -318,12 +319,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "c24"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2027-03-31",
 "group": "consulting",
+"id": "c25",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/inverto/strategic-procurement-supply-chain-management-associate-consultant-2024",
 "location": "London",
 "org": "Inverto (a BCG company)",
@@ -332,12 +333,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "c25"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2027-01-24",
 "group": "consulting",
+"id": "c26",
 "link": "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs",
 "location": "London",
 "org": "Boston Consulting Group (BCG)",
@@ -346,12 +347,12 @@
 "status": "Opening soon",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Boston Consulting Group UK LLP is a licensed Skilled Worker sponsor (Home Office register)",
-"id": "c26"
+"visaNote": "Boston Consulting Group UK LLP is a licensed Skilled Worker sponsor (Home Office register)"
 },
 {
 "deadline": "2026-10-25",
 "group": "consulting",
+"id": "c26102101",
 "link": "https://www.gradcracker.com/hub/1115/oliver-wyman/graduate-job/82585/entry-level-consultant",
 "location": "London (hybrid)",
 "org": "Oliver Wyman",
@@ -360,12 +361,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Oliver Wyman Limited is on the Home Office register of licensed sponsors; not stated on posting",
-"id": "c26102101"
+"visaNote": "Oliver Wyman Limited is on the Home Office register of licensed sponsors; not stated on posting"
 },
 {
 "deadline": "2026-10-31",
 "group": "consulting",
+"id": "c26102102",
 "link": "https://targetjobs.co.uk/jobs/strategy-graduate-programme-2027-2028-249523",
 "location": "London",
 "org": "Accenture",
@@ -374,12 +375,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Accenture (UK) Limited is on the Home Office register of licensed sponsors; posting references a visa policy tied to UKVI salary thresholds",
-"id": "c26102102"
+"visaNote": "Accenture (UK) Limited is on the Home Office register of licensed sponsors; posting references a visa policy tied to UKVI salary thresholds"
 },
 {
 "deadline": "2026-10-30",
 "group": "consulting",
+"id": "c26102104",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/clearview-healthcare-partners/life-sciences-strategy-analyst-london-2027-anv1",
 "location": "London",
 "org": "ClearView Healthcare Partners",
@@ -388,12 +389,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "c26102104"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-10-29",
 "group": "consulting",
+"id": "c26102201",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/fti-consulting/graduate-scheme-economic-financial-consulting-london-2027-anxn",
 "location": "London",
 "org": "FTI Consulting",
@@ -402,12 +403,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "c26102201"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "consulting",
+"id": "c26102202",
 "link": "https://targetjobs.co.uk/jobs/2027-graduate-analyst-246849",
 "location": "London",
 "org": "Elixirr",
@@ -416,12 +417,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: only candidates who already have UK right to work and need no current or future sponsorship",
-"id": "c26102202"
+"visaNote": "Posting: only candidates who already have UK right to work and need no current or future sponsorship"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c26102203",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/capgemini-invent/accelerate-graduate-programme-intelligent-industries-2027",
 "location": "London (also Manchester, Glasgow)",
 "org": "Capgemini Invent",
@@ -430,12 +431,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "No sponsorship info; security vetting expects 3 years UK residence",
-"id": "c26102203"
+"visaNote": "No sponsorship info; security vetting expects 3 years UK residence"
 },
 {
 "deadline": "2026-11-05",
 "group": "consulting",
+"id": "c26102301",
 "link": "https://jobs.smartrecruiters.com/PAConsulting/744000157050729-2027-graduate-consulting-rotational-programme-analyst-london",
 "location": "London",
 "org": "PA Consulting",
@@ -444,12 +445,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "PA Consulting Services Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c26102301"
+"visaNote": "PA Consulting Services Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2026-11-01",
 "group": "consulting",
+"id": "c26102302",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alpha-fmc/insurance-consulting-graduate-2027",
 "location": "London",
 "org": "Alpha FMC",
@@ -458,12 +459,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "c26102302"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-10-25",
 "group": "consulting",
+"id": "c26102303",
 "link": "https://www.gradcracker.com/hub/1115/oliver-wyman/graduate-job/82588/entry-level-consultant-actuarial",
 "location": "London (hybrid)",
 "org": "Oliver Wyman",
@@ -472,12 +473,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Oliver Wyman Limited is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "c26102303"
+"visaNote": "Oliver Wyman Limited is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "2026-11-13",
 "group": "consulting",
+"id": "c26102304",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/frontier-economics/graduate-economic-analyst-london-2026-aq25",
 "location": "London (also EU offices)",
 "org": "Frontier Economics",
@@ -486,12 +487,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "c26102304"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-11-06",
 "group": "consulting",
+"id": "c26102305",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alvarez-marsal/restructuring-insolvency-graduate-programme-2027-1",
 "location": "London",
 "org": "Alvarez & Marsal",
@@ -500,12 +501,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: must be eligible to work in UK without visa sponsorship",
-"id": "c26102305"
+"visaNote": "Posting: must be eligible to work in UK without visa sponsorship"
 },
 {
 "deadline": "2026-10-26",
 "group": "consulting",
+"id": "c26102401",
 "link": "https://targetjobs.co.uk/jobs/business-transformation-consulting-marketing-commerce-full-time-graduate-london-253243",
 "location": "London (hybrid)",
 "org": "Deloitte",
@@ -514,12 +515,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting accepts candidates currently on Student visas (must stay on Student visa until Deloitte immigration team contacts them ~3 months before start); not open to anyone who has previously held a Skilled Worker or Graduate visa. Deloitte LLP is a UK licensed sponsor.",
-"id": "c26102401"
+"visaNote": "Posting accepts candidates currently on Student visas (must stay on Student visa until Deloitte immigration team contacts them ~3 months before start); not open to anyone who has previously held a Skilled Worker or Graduate visa. Deloitte LLP is a UK licensed sponsor."
 },
 {
 "deadline": "2026-10-26",
 "group": "consulting",
+"id": "c26102402",
 "link": "https://targetjobs.co.uk/jobs/risk-controls-consulting-defense-resilience-full-time-graduate-london-252729",
 "location": "London (hybrid)",
 "org": "Deloitte",
@@ -528,12 +529,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting accepts candidates currently on Student visas; not open to anyone who has previously held a Skilled Worker or Graduate visa. Deloitte LLP is a UK licensed sponsor. Defence work may involve security vetting (not stated on posting).",
-"id": "c26102402"
+"visaNote": "Posting accepts candidates currently on Student visas; not open to anyone who has previously held a Skilled Worker or Graduate visa. Deloitte LLP is a UK licensed sponsor. Defence work may involve security vetting (not stated on posting)."
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c26102403",
 "link": "https://www.gradcracker.com/hub/478/pwc/graduate-job/83579/graduate-strategy",
 "location": "London",
 "org": "PwC (Strategy& / Enterprise Strategy)",
@@ -542,12 +543,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting/PwC page only says candidates must have and keep the right to work in the UK; no explicit sponsorship statement. PwC (PricewaterhouseCoopers LLP) is a UK licensed sponsor, but graduate sponsorship not confirmed on posting.",
-"id": "c26102403"
+"visaNote": "Posting/PwC page only says candidates must have and keep the right to work in the UK; no explicit sponsorship statement. PwC (PricewaterhouseCoopers LLP) is a UK licensed sponsor, but graduate sponsorship not confirmed on posting."
 },
 {
 "deadline": "2026-12-31",
 "group": "consulting",
+"id": "c26102404",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alpha-fmc/asset-and-wealth-technology-consulting-graduate-analyst-2027",
 "location": "London",
 "org": "Alpha FMC",
@@ -556,12 +557,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting makes no visa sponsorship statement.",
-"id": "c26102404"
+"visaNote": "Posting makes no visa sponsorship statement."
 },
 {
 "deadline": "2026-12-07",
 "group": "consulting",
+"id": "c26102405",
 "link": "https://targetjobs.co.uk/jobs/aon-graduate-programme-2027-talent-advisory-consulting-253331",
 "location": "London",
 "org": "Aon",
@@ -570,12 +571,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting makes no visa sponsorship or right-to-work statement.",
-"id": "c26102405"
+"visaNote": "Posting makes no visa sponsorship or right-to-work statement."
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c26102501",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/charles-river-associates/consulting-associate-european-competition-practice-london-2027-am6a",
 "location": "London",
 "org": "Charles River Associates",
@@ -584,12 +585,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship; it says CRA offers 'in-house immigration support for foreign nationals'",
-"id": "c26102501"
+"visaNote": "Posting does not mention sponsorship; it says CRA offers 'in-house immigration support for foreign nationals'"
 },
 {
 "deadline": "Not stated",
 "group": "consulting",
+"id": "c26102502",
 "link": "https://job-boards.eu.greenhouse.io/cairneagle/jobs/4952058101",
 "location": "London",
 "org": "Cairneagle",
@@ -598,12 +599,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting asks about UK right to work but says nothing about sponsorship",
-"id": "c26102502"
+"visaNote": "Posting asks about UK right to work but says nothing about sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "consulting",
+"id": "c26102503",
 "link": "https://careers.ases.org/job/nera-associate-analystanalyst-energy-natural-resources-london/85814924/",
 "location": "London",
 "org": "NERA Economic Consulting",
@@ -612,12 +613,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention visa or sponsorship",
-"id": "c26102503"
+"visaNote": "Posting does not mention visa or sponsorship"
 },
 {
 "deadline": "2026-10-29",
 "group": "consulting",
+"id": "c26102601",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/fti-consulting/graduate-scheme-strategic-communications-london-2027-anxe",
 "location": "London",
 "org": "FTI Consulting",
@@ -626,12 +627,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "c26102601"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c26102602",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/argon-co-uk-ltd/graduate-analyst-london-2027-am5n",
 "location": "London",
 "org": "Argon & Co",
@@ -640,12 +641,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "c26102602"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-12-04",
 "group": "consulting",
+"id": "c26102603",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alvarez-marsal/disputes-and-investigations-europe-graduate-programme-2027",
 "location": "London",
 "org": "Alvarez & Marsal",
@@ -654,12 +655,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting requires eligibility to work in the UK without visa sponsorship",
-"id": "c26102603"
+"visaNote": "Posting requires eligibility to work in the UK without visa sponsorship"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c26102701",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operational+Research&LAYER4=London&LAYER5=September+2027&cookieCheck=true",
 "location": "London",
 "org": "EY-Parthenon",
@@ -668,12 +669,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "EY is a licensed UK sponsor; EY FAQ: may sponsor switch from Student visa (limited CoS); course must end by 31 Aug",
-"id": "c26102701"
+"visaNote": "EY is a licensed UK sponsor; EY FAQ: may sponsor switch from Student visa (limited CoS); course must end by 31 Aug"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c26102702",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Business+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true",
 "location": "Manchester, UK",
 "org": "EY",
@@ -682,12 +683,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Listing silent; EY is a licensed sponsor but third-party guide says sponsorship is London-only; confirm with EY",
-"id": "c26102702"
+"visaNote": "Listing silent; EY is a licensed sponsor but third-party guide says sponsorship is London-only; confirm with EY"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c26102703",
 "link": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=People+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true",
 "location": "Manchester, UK",
 "org": "EY",
@@ -696,12 +697,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Listing silent; EY is a licensed sponsor but sponsorship reportedly London-only; confirm with EY",
-"id": "c26102703"
+"visaNote": "Listing silent; EY is a licensed sponsor but sponsorship reportedly London-only; confirm with EY"
 },
 {
 "deadline": "Not stated",
 "group": "consulting",
+"id": "c27",
 "link": "https://careers.bcg.com/global/en/job/58870/Senior-Associate-Consultant-Experienced-Hire-London",
 "location": "London",
 "org": "Boston Consulting Group (BCG)",
@@ -710,12 +711,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "Boston Consulting Group UK LLP is a licensed Skilled Worker sponsor (Home Office register)",
-"id": "c27"
+"visaNote": "Boston Consulting Group UK LLP is a licensed Skilled Worker sponsor (Home Office register)"
 },
 {
 "deadline": "Rolling",
 "group": "consulting",
+"id": "c28",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/capgemini-invent/accelerate-graduate-programme-financial-services-2027",
 "location": "London",
 "org": "Capgemini Invent",
@@ -724,12 +725,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated; requires 3 yrs UK residency for security clearance",
-"id": "c28"
+"visaNote": "Not stated; requires 3 yrs UK residency for security clearance"
 },
 {
 "deadline": "2026-11-16",
 "group": "building",
+"id": "f00",
 "link": "https://www.imperialenterpriselab.com/programmes/we-innovate/",
 "location": "London (South Kensington, in person)",
 "org": "Imperial Enterprise Lab",
@@ -738,12 +739,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Yes",
-"visaNote": "For current Imperial students/recent grads; compatible with Student visa study period. Not a visa endorser.",
-"id": "f00"
+"visaNote": "For current Imperial students/recent grads; compatible with Student visa study period. Not a visa endorser."
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f01",
 "link": "https://www.imperialenterpriselab.com/programmes/vcc/",
 "location": "London",
 "org": "Imperial Enterprise Lab",
@@ -752,12 +753,12 @@
 "status": "Opening soon",
 "type": "Competition",
 "visa": "Yes",
-"visaNote": "Open to Imperial students/grads within 3 years; no 2027 dates yet (2026 ran 27 Apr-14 Jun). Not a visa endorser.",
-"id": "f01"
+"visaNote": "Open to Imperial students/grads within 3 years; no 2027 dates yet (2026 ran 27 Apr-14 Jun). Not a visa endorser."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f02",
 "link": "https://www.imperialenterpriselab.com/services/ivms/",
 "location": "London",
 "org": "Imperial Enterprise Lab",
@@ -766,12 +767,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Yes",
-"visaNote": "Students/alumni within 3 years; requires prior Idea Surgery/coaching. Mentoring only, no endorsement.",
-"id": "f02"
+"visaNote": "Students/alumni within 3 years; requires prior Idea Surgery/coaching. Mentoring only, no endorsement."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f03",
 "link": "https://www.imperialenterpriselab.com/services/idea-surgeries/",
 "location": "London",
 "org": "Imperial Enterprise Lab",
@@ -780,26 +781,26 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Yes",
-"visaNote": "Imperial's visa page recommends Idea Surgeries for students exploring the Innovator Founder route.",
-"id": "f03"
+"visaNote": "Imperial's visa page recommends Idea Surgeries for students exploring the Innovator Founder route."
 },
 {
-"deadline": "Not stated",
+"deadline": "2026-11-20",
 "group": "building",
+"id": "f04",
 "link": "https://www.imperialenterpriselab.com/programmes/earthscale/",
 "location": "London",
 "org": "Imperial Enterprise Lab",
 "role": "EarthScale Cohort 3 (climate ventures, up to ~£14k vouchers)",
 "source": "https://www.imperialenterpriselab.com/programmes/earthscale/",
-"status": "Opening soon",
+"status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Cohort 3 opens late 2026; requires UK-registered venture with seed investment. No visa info.",
-"id": "f04"
+"visaNote": "Cohort 3 opens late 2026; requires UK-registered venture with seed investment. No visa info."
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f05",
 "link": "https://www.hultprize.org/register",
 "location": "Global (university or Open Application)",
 "org": "Hult Prize Foundation",
@@ -808,12 +809,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Student competition; no visa info. Registration open, deadlines not published.",
-"id": "f05"
+"visaNote": "Student competition; no visa info. Registration open, deadlines not published."
 },
 {
 "deadline": "2026-11-02",
 "group": "building",
+"id": "f06",
 "link": "https://www.ycombinator.com/apply",
 "location": "San Francisco (in person)",
 "org": "Y Combinator",
@@ -822,12 +823,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Yes",
-"visaNote": "YC connects accepted founders with immigration attorneys for US visas; does not support UK routes.",
-"id": "f06"
+"visaNote": "YC connects accepted founders with immigration attorneys for US visas; does not support UK routes."
 },
 {
 "deadline": "2026-11-01",
 "group": "building",
+"id": "f07",
 "link": "https://a16z.com/applications-for-a16z-speedrun-sr008-are-now-open/",
 "location": "San Francisco (in person)",
 "org": "Andreessen Horowitz (a16z)",
@@ -836,12 +837,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Residency 1 Feb-18 Apr 2027 in SF; visa support not stated.",
-"id": "f07"
+"visaNote": "Residency 1 Feb-18 Apr 2027 in SF; visa support not stated."
 },
 {
 "deadline": "2026-11-18",
 "group": "building",
+"id": "f08",
 "link": "https://www.techstars.com/accelerators/london",
 "location": "London",
 "org": "Techstars",
@@ -850,12 +851,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Starts 8 Mar 2027. Techstars London is only a legacy endorser (cannot endorse new Innovator Founder applicants).",
-"id": "f08"
+"visaNote": "Starts 8 Mar 2027. Techstars London is only a legacy endorser (cannot endorse new Innovator Founder applicants)."
 },
 {
 "deadline": "2026-12-06",
 "group": "building",
+"id": "f09",
 "link": "https://conceptionx.org/",
 "location": "UK (London-based)",
 "org": "Conception X",
@@ -864,12 +865,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Aimed at technical PhD researchers; no equity/fees. Visa not stated.",
-"id": "f09"
+"visaNote": "Aimed at technical PhD researchers; no equity/fees. Visa not stated."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f10",
 "link": "https://seedcamp.com/",
 "location": "London",
 "org": "Seedcamp",
@@ -878,12 +879,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Pitch via 'Pitch Us'. Seedcamp is only a legacy endorser (no new Innovator Founder endorsements).",
-"id": "f10"
+"visaNote": "Pitch via 'Pitch Us'. Seedcamp is only a legacy endorser (no new Innovator Founder endorsements)."
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f11",
 "link": "https://foundersfactory.com/aviva/",
 "location": "London & Global",
 "org": "Founders Factory",
@@ -892,12 +893,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Pre-seed to Series A; visa not stated.",
-"id": "f11"
+"visaNote": "Pre-seed to Series A; visa not stated."
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f12",
 "link": "https://www.carbonthirteen.com/",
 "location": "Cambridge",
 "org": "Carbon13",
@@ -906,12 +907,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Listed as accepting applications; visa not stated.",
-"id": "f12"
+"visaNote": "Listed as accepting applications; visa not stated."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f13",
 "link": "https://www.adaventures.com/send-us-your-pitch",
 "location": "London",
 "org": "Ada Ventures",
@@ -920,12 +921,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Pitch submission; visa not stated.",
-"id": "f13"
+"visaNote": "Pitch submission; visa not stated."
 },
 {
 "deadline": "2027-03-01",
 "group": "building",
+"id": "f14",
 "link": "https://unltd.org.uk/awards/",
 "location": "UK",
 "org": "UnLtd",
@@ -934,12 +935,12 @@
 "status": "Opening soon",
 "type": "Grant",
 "visa": "Unknown",
-"visaNote": "Opens 6 Jan 2027. Must have right to live and work in UK for the 12-month award period; check Student visa self-employment limits.",
-"id": "f14"
+"visaNote": "Opens 6 Jan 2027. Must have right to live and work in UK for the 12-month award period; check Student visa self-employment limits."
 },
 {
 "deadline": "2026-12-01",
 "group": "building",
+"id": "f15",
 "link": "https://eic.ec.europa.eu/eic-prizes/european-prize-women-innovators_en",
 "location": "EU & Horizon Europe associated countries",
 "org": "European Innovation Council",
@@ -948,12 +949,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Company must be registered before 1 Jan 2025; UK eligibility via Horizon Europe association not stated on page.",
-"id": "f15"
+"visaNote": "Company must be registered before 1 Jan 2025; UK eligibility via Horizon Europe association not stated on page."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f16",
 "link": "https://www.ukesapp.co.uk/",
 "location": "UK",
 "org": "UK Endorsing Services (UKES)",
@@ -962,12 +963,12 @@
 "status": "Open",
 "type": "Visa route",
 "visa": "Yes",
-"visaNote": "Approved Home Office endorsing body. £1,000 endorsement + £500 per checkpoint meeting.",
-"id": "f16"
+"visaNote": "Approved Home Office endorsing body. £1,000 endorsement + £500 per checkpoint meeting."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f17",
 "link": "https://www.innovatorinternational.com/apply-online/",
 "location": "UK",
 "org": "Innovator International",
@@ -976,12 +977,12 @@
 "status": "Open",
 "type": "Visa route",
 "visa": "Yes",
-"visaNote": "Approved endorsing body; has academic/graduate entrepreneur support.",
-"id": "f17"
+"visaNote": "Approved endorsing body; has academic/graduate entrepreneur support."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f18",
 "link": "https://envestors-visa-endorsement.co.uk",
 "location": "UK",
 "org": "Envestors Limited",
@@ -990,12 +991,12 @@
 "status": "Open",
 "type": "Visa route",
 "visa": "Yes",
-"visaNote": "Approved endorsing body (Innovator Founder and Scale-up).",
-"id": "f18"
+"visaNote": "Approved endorsing body (Innovator Founder and Scale-up)."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f19",
 "link": "https://www.great.gov.uk/international/content/invest/how-to-setup-in-the-uk/global-entrepreneur-program/",
 "location": "UK",
 "org": "Department for Business and Trade",
@@ -1004,12 +1005,12 @@
 "status": "Open",
 "type": "Visa route",
 "visa": "Yes",
-"visaNote": "Endorses Innovator Founder only, and only founders already invited onto GEP.",
-"id": "f19"
+"visaNote": "Endorses Innovator Founder only, and only founders already invited onto GEP."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f20",
 "link": "https://www.gov.uk/innovator-founder-visa/switch-to-this-visa",
 "location": "UK",
 "org": "UK Home Office",
@@ -1018,12 +1019,12 @@
 "status": "Opening soon",
 "type": "Visa route",
 "visa": "Yes",
-"visaNote": "Student visa holders can switch in-country only after completing their course (or 24 months of full-time PhD). Fee £1,693; 3-year stay.",
-"id": "f20"
+"visaNote": "Student visa holders can switch in-country only after completing their course (or 24 months of full-time PhD). Fee £1,693; 3-year stay."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f21",
 "link": "https://www.gov.uk/graduate-visa",
 "location": "UK",
 "org": "UK Home Office",
@@ -1032,12 +1033,12 @@
 "status": "Opening soon",
 "type": "Visa route",
 "visa": "Yes",
-"visaNote": "Self-employment allowed. 18 months if applying on/after 1 Jan 2027 (Sept 2027 grads); apply before Student visa expires. Fee £937 + IHS.",
-"id": "f21"
+"visaNote": "Self-employment allowed. 18 months if applying on/after 1 Jan 2027 (Sept 2027 grads); apply before Student visa expires. Fee £937 + IHS."
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f22",
 "link": "https://www.imperial.ac.uk/students/international-students/visas-and-immigration/working-in-the-uk/working-in-the-uk-after-your-studies/innovator/",
 "location": "London",
 "org": "Imperial College London",
@@ -1046,12 +1047,12 @@
 "status": "Open",
 "type": "Visa route",
 "visa": "No",
-"visaNote": "Imperial cannot endorse; no universities are current endorsing bodies. Use an approved endorser.",
-"id": "f22"
+"visaNote": "Imperial cannot endorse; no universities are current endorsing bodies. Use an approved endorser."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f23",
 "link": "https://apply.joinef.com/",
 "location": "London then San Francisco",
 "org": "Entrepreneur First",
@@ -1060,12 +1061,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "EF states it does not provide visas but can often help with visa applications.",
-"id": "f23"
+"visaNote": "EF states it does not provide visas but can often help with visa applications."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f24",
 "link": "https://www.antler.co/apply",
 "location": "London",
 "org": "Antler",
@@ -1074,12 +1075,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "No",
-"visaNote": "No sponsorship: need right to work or an active visa/endorsement application by first interview.",
-"id": "f24"
+"visaNote": "No sponsorship: need right to work or an active visa/endorsement application by first interview."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f25",
 "link": "https://zinc.vc/",
 "location": "London (full-time, in person)",
 "org": "Zinc",
@@ -1088,12 +1089,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Cohorts start Oct-Nov and Apr-May; Zinc advises applying early if you need a visa. No sponsorship info.",
-"id": "f25"
+"visaNote": "Cohorts start Oct-Nov and Apr-May; Zinc advises applying early if you need a visa. No sponsorship info."
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26",
 "link": "https://www.carbonthirteen.com/programmes/venture-builder-cambridge/",
 "location": "Cambridge (in-person Phase 1)",
 "org": "Carbon13",
@@ -1102,12 +1103,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Pre-idea/pre-team founders welcome; visa not mentioned.",
-"id": "f26"
+"visaNote": "Pre-idea/pre-team founders welcome; visa not mentioned."
 },
 {
 "deadline": "2026-11-16",
 "group": "building",
+"id": "f26102101",
 "link": "https://eit-culture-creativity.eu/your-opportunities/calls-funding/new-ventures-creative-tech-spark-incubation",
 "location": "Remote / Europe (UK eligible)",
 "org": "EIT Culture & Creativity",
@@ -1116,12 +1117,12 @@
 "status": "Open",
 "type": "Grant",
 "visa": "Unknown",
-"visaNote": "Open to applicants in Horizon Europe-associated countries incl. UK (per Innovate UK Business Connect); no visa support stated",
-"id": "f26102101"
+"visaNote": "Open to applicants in Horizon Europe-associated countries incl. UK (per Innovate UK Business Connect); no visa support stated"
 },
 {
 "deadline": "2026-11-30",
 "group": "building",
+"id": "f26102102",
 "link": "https://hello-tomorrow.org/global-challenge/",
 "location": "Global (finals in Paris)",
 "org": "Hello Tomorrow",
@@ -1130,12 +1131,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Open to startups worldwide",
-"id": "f26102102"
+"visaNote": "Open to startups worldwide"
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f26102103",
 "link": "https://www.zinc.vc/programmes/pre-seed-investment/",
 "location": "UK",
 "org": "Zinc",
@@ -1144,12 +1145,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "UK-based ventures; visa support not stated",
-"id": "f26102103"
+"visaNote": "UK-based ventures; visa support not stated"
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f26102104",
 "link": "https://foundersfactory.com/g-force/",
 "location": "Remote",
 "org": "Founders Factory",
@@ -1158,12 +1159,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Remote programme; visa not relevant/not stated",
-"id": "f26102104"
+"visaNote": "Remote programme; visa not relevant/not stated"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102105",
 "link": "https://societies.ai/careers/founders-associate",
 "location": "London (in-office)",
 "org": "Artificial Societies",
@@ -1172,12 +1173,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned on posting",
-"id": "f26102105"
+"visaNote": "Sponsorship not mentioned on posting"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102106",
 "link": "https://jobs.ashbyhq.com/riplo/5bc13d9a-85a5-4d91-8898-1d18151fd94d",
 "location": "London (remote only for exceptional talent)",
 "org": "Riplo",
@@ -1186,12 +1187,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned on posting",
-"id": "f26102106"
+"visaNote": "Sponsorship not mentioned on posting"
 },
 {
 "deadline": "2026-12-02",
 "group": "starting",
+"id": "f26102108",
 "link": "https://www.startupgrind.com/events/details/startup-grind-london-presents-sg-london-ai-demo-night-2026/",
 "location": "Central London (venue TBC, WC2N)",
 "org": "Startup Grind London",
@@ -1200,12 +1201,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; ticket price not stated",
-"id": "f26102108"
+"visaNote": "Event; ticket price not stated"
 },
 {
 "deadline": "2026-11-10",
 "group": "starting",
+"id": "f26102109",
 "link": "https://allevents.in/london/ai-builders-london-nov-10/100001999020589395",
 "location": "Civo Tech Junction, Cowper St, London EC2A",
 "org": "AI Builders (community)",
@@ -1214,12 +1215,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Free event",
-"id": "f26102109"
+"visaNote": "Free event"
 },
 {
 "deadline": "2026-11-13",
 "group": "starting",
+"id": "f26102110",
 "link": "https://targetjobs.co.uk/events/targetjobs-big-society-hack",
 "location": "Central London",
 "org": "TARGETjobs",
@@ -1228,12 +1229,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Student event; open to UK university STEM society teams",
-"id": "f26102110"
+"visaNote": "Student event; open to UK university STEM society teams"
 },
 {
 "deadline": "2026-12-01",
 "group": "building",
+"id": "f26102201",
 "link": "https://thepitch.uk/enter-the-pitch/",
 "location": "London (plus 7 other UK/Ireland regions)",
 "org": "SeedLegals / The Pitch",
@@ -1242,12 +1243,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Competition; page says nothing about visa or nationality",
-"id": "f26102201"
+"visaNote": "Competition; page says nothing about visa or nationality"
 },
 {
 "deadline": "2026-11-11",
 "group": "building",
+"id": "f26102202",
 "link": "https://www.soci.org/careers-support/bright-scidea",
 "location": "London",
 "org": "Society of Chemical Industry (SCI)",
@@ -1256,12 +1257,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Student competition; nationality not restricted, students at UK or international universities can enter",
-"id": "f26102202"
+"visaNote": "Student competition; nationality not restricted, students at UK or international universities can enter"
 },
 {
 "deadline": "2026-11-03",
 "group": "building",
+"id": "f26102203",
 "link": "https://fi.co/london",
 "location": "London (hybrid)",
 "org": "Founder Institute",
@@ -1270,12 +1271,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Part-time programme; page says nothing about visas",
-"id": "f26102203"
+"visaNote": "Part-time programme; page says nothing about visas"
 },
 {
 "deadline": "2026-11-18",
 "group": "building",
+"id": "f26102204",
 "link": "https://apply-for-innovation-funding.service.gov.uk/competition/2582/overview/9fdb47a5-011c-4c47-ac5e-c426e295fe89",
 "location": "UK",
 "org": "Innovate UK",
@@ -1284,12 +1285,12 @@
 "status": "Open",
 "type": "Grant",
 "visa": "Unknown",
-"visaNote": "Company-level grant; needs a UK-registered SME, founder nationality not stated",
-"id": "f26102204"
+"visaNote": "Company-level grant; needs a UK-registered SME, founder nationality not stated"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102205",
 "link": "https://www.ycombinator.com/cofounder-matching",
 "location": "Online",
 "org": "Y Combinator",
@@ -1298,12 +1299,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Online matching platform; not a job, so no sponsorship needed",
-"id": "f26102205"
+"visaNote": "Online matching platform; not a job, so no sponsorship needed"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102206",
 "link": "https://apply.workable.com/ionate/jobs/view/2A4C2B5015",
 "location": "London",
 "org": "IONATE",
@@ -1312,12 +1313,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Listing doesn't mention sponsorship",
-"id": "f26102206"
+"visaNote": "Listing doesn't mention sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102207",
 "link": "https://builtinlondon.uk/job/founder-s-associate/11679322",
 "location": "London",
 "org": "Refractal",
@@ -1326,12 +1327,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Yes",
-"visaNote": "Built In listing names 'Visa and relocation support' as a benefit",
-"id": "f26102207"
+"visaNote": "Built In listing names 'Visa and relocation support' as a benefit"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102208",
 "link": "https://targetjobs.co.uk/jobs/internship-founder-associate-ceos-right-hand-247153",
 "location": "London",
 "org": "Gobano Robotics",
@@ -1340,12 +1341,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Listing says the role does not include visa sponsorship",
-"id": "f26102208"
+"visaNote": "Listing says the role does not include visa sponsorship"
 },
 {
 "deadline": "2026-10-31",
 "group": "starting",
+"id": "f26102209",
 "link": "https://shipyard.london/hackathon",
 "location": "London (Soho) + online",
 "org": "Shipyard (with Encode Club)",
@@ -1354,12 +1355,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; no work sponsorship involved",
-"id": "f26102209"
+"visaNote": "Event; no work sponsorship involved"
 },
 {
 "deadline": "2026-10-29",
 "group": "starting",
+"id": "f26102210",
 "link": "https://luma.com/v3blfyij",
 "location": "London (Shoreditch)",
 "org": "The Brew / Anurag Jain",
@@ -1368,12 +1369,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; no work sponsorship involved",
-"id": "f26102210"
+"visaNote": "Event; no work sponsorship involved"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102211",
 "link": "https://luma.com/fy0ivv5a",
 "location": "London",
 "org": "UK Startup Events",
@@ -1382,12 +1383,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; no work sponsorship involved",
-"id": "f26102211"
+"visaNote": "Event; no work sponsorship involved"
 },
 {
 "deadline": "2027-01-14",
 "group": "building",
+"id": "f26102301",
 "link": "https://womentecheurope.eu/active-calls/",
 "location": "Europe incl. UK (remote)",
 "org": "Women TechEU (Horizon Europe / EIC)",
@@ -1396,12 +1397,12 @@
 "status": "Open",
 "type": "Grant",
 "visa": "Unknown",
-"visaNote": "UK-registered companies eligible; founder nationality irrelevant",
-"id": "f26102301"
+"visaNote": "UK-registered companies eligible; founder nationality irrelevant"
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f26102302",
 "link": "https://ewor.com/faq",
 "location": "Remote / Europe",
 "org": "EWOR",
@@ -1410,12 +1411,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "No visa support stated; rolling review per FAQ",
-"id": "f26102302"
+"visaNote": "No visa support stated; rolling review per FAQ"
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f26102303",
 "link": "https://www.gov.uk/global-talent-digital-technology",
 "location": "UK",
 "org": "UK Home Office / Tech Nation",
@@ -1424,12 +1425,12 @@
 "status": "Opening soon",
 "type": "Visa route",
 "visa": "Yes",
-"visaNote": "Founder-friendly alternative to Innovator Founder; Student visa holders can switch in-country only after completing their course",
-"id": "f26102303"
+"visaNote": "Founder-friendly alternative to Innovator Founder; Student visa holders can switch in-country only after completing their course"
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f26102304",
 "link": "https://www.microsoft.com/en-us/startups",
 "location": "Global (UK eligible)",
 "org": "Microsoft for Startups",
@@ -1438,12 +1439,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Credits and tools only; no visa support",
-"id": "f26102304"
+"visaNote": "Credits and tools only; no visa support"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102305",
 "link": "https://wellfound.com/jobs/3829036-founder-s-associate",
 "location": "London (in-office)",
 "org": "Tracebit",
@@ -1452,12 +1453,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "No",
-"visaNote": "Posting: 'We are not able to sponsor visas for this role.'",
-"id": "f26102305"
+"visaNote": "Posting: 'We are not able to sponsor visas for this role.'"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102306",
 "link": "https://apply.workable.com/fuseenergy/j/D1150E2D86",
 "location": "London (in-office)",
 "org": "Fuse Energy",
@@ -1466,12 +1467,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned; says 'we hire globally'",
-"id": "f26102306"
+"visaNote": "Sponsorship not mentioned; says 'we hire globally'"
 },
 {
 "deadline": "2026-10-25",
 "group": "starting",
+"id": "f26102307",
 "link": "https://ukfin.network/ukfinnovator-fis-digital-assets-hackathon",
 "location": "London",
 "org": "UK Finance / FIS",
@@ -1480,12 +1481,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Open to UK university students; master's eligibility not stated",
-"id": "f26102307"
+"visaNote": "Open to UK university students; master's eligibility not stated"
 },
 {
 "deadline": "2026-10-28",
 "group": "starting",
+"id": "f26102308",
 "link": "https://startupnetwork.eu/sne_events/the-london-startup-party-2026",
 "location": "Big Chill, Pentonville Rd, London N1",
 "org": "Startup Network Europe",
@@ -1494,12 +1495,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; no sponsorship involved",
-"id": "f26102308"
+"visaNote": "Event; no sponsorship involved"
 },
 {
 "deadline": "2026-11-04",
 "group": "starting",
+"id": "f26102309",
 "link": "https://www.imperialenterpriselab.com/events/vcc-gf-26/",
 "location": "London (Imperial)",
 "org": "Imperial Enterprise Lab",
@@ -1508,12 +1509,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Imperial event",
-"id": "f26102309"
+"visaNote": "Imperial event"
 },
 {
 "deadline": "Rolling",
 "group": "building",
+"id": "f26102401",
 "link": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
 "location": "EU / UK (Horizon Europe associated country); remote application",
 "org": "European Innovation Council (EIC)",
@@ -1522,12 +1523,12 @@
 "status": "Open",
 "type": "Grant",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102401"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2026-11-30",
 "group": "building",
+"id": "f26102402",
 "link": "https://www.startup-energy-transition.com/set-award/set-award-2027/",
 "location": "Online application; final in Berlin",
 "org": "Deutsche Energie-Agentur (dena) / Start Up Energy Transition",
@@ -1536,12 +1537,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102402"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2027-01-31",
 "group": "building",
+"id": "f26102403",
 "link": "https://www.southsummit.io/en/content/startup-competition",
 "location": "Online application; final in Madrid",
 "org": "South Summit",
@@ -1550,12 +1551,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102403"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2026-10-31",
 "group": "building",
+"id": "f26102404",
 "link": "https://www.meetup.com/london-entrepreneur-startup-network-tech-business-ecommerce/events/315964059/",
 "location": "London (Tide HQ, EC1Y)",
 "org": "GMax Card / Tide (London Entrepreneur & Startup Network)",
@@ -1564,12 +1565,12 @@
 "status": "Open",
 "type": "Competition",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102404"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2026-11-21",
 "group": "starting",
+"id": "f26102405",
 "link": "https://ukhackathons.com/events/ideation-hackathon",
 "location": "London (Bayes Business School)",
 "org": "CityVentures",
@@ -1578,12 +1579,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102405"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2026-10-28",
 "group": "starting",
+"id": "f26102406",
 "link": "https://ukhackathons.com/events/yfl-x-lovable-buildathon",
 "location": "London (venue TBA)",
 "org": "Young Founders of London (YFL) x Lovable",
@@ -1592,12 +1593,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102406"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2026-11-28",
 "group": "starting",
+"id": "f26102407",
 "link": "https://ukhackathons.com/events/spacex-hackathon",
 "location": "London (Imperial College London)",
 "org": "Imperial Entrepreneurs (student society)",
@@ -1606,12 +1607,12 @@
 "status": "Opening soon",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102407"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2026-11-17",
 "group": "starting",
+"id": "f26102408",
 "link": "https://ukhackathons.com/events/gtm-hackathon-by-granola-x-gemini",
 "location": "London (Granola HQ)",
 "org": "Granola",
@@ -1620,12 +1621,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102408"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "2026-11-26",
 "group": "starting",
+"id": "f26102409",
 "link": "https://www.eventbrite.co.uk/e/1992353316402",
 "location": "London (Mayfair, W1S)",
 "org": "Fintech Breakfast",
@@ -1634,12 +1635,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Not a job; no sponsorship involved",
-"id": "f26102409"
+"visaNote": "Not a job; no sponsorship involved"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102410",
 "link": "https://jobs.ashbyhq.com/spruce/3219927d-5128-4f59-b3d4-5de1e422ead8",
 "location": "London / Bristol (hybrid)",
 "org": "Spruce",
@@ -1648,12 +1649,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Posting does not mention visa sponsorship",
-"id": "f26102410"
+"visaNote": "Posting does not mention visa sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f26102501",
 "link": "https://accelerator.unternehmertum.de/",
 "location": "Munich, Germany",
 "org": "UnternehmerTUM",
@@ -1662,12 +1663,12 @@
 "status": "Opening soon",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "Based in Germany, so UK visa rules do not apply. You would need permission to stay in Germany for the programme.",
-"id": "f26102501"
+"visaNote": "Based in Germany, so UK visa rules do not apply. You would need permission to stay in Germany for the programme."
 },
 {
 "deadline": "2026-11-13",
 "group": "building",
+"id": "f26102502",
 "link": "https://accelerator.unternehmertum.de/",
 "location": "Munich, Germany",
 "org": "UnternehmerTUM",
@@ -1676,12 +1677,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Based in Germany, so UK visa rules do not apply.",
-"id": "f26102502"
+"visaNote": "Based in Germany, so UK visa rules do not apply."
 },
 {
 "deadline": "2027-01-18",
 "group": "building",
+"id": "f26102503",
 "link": "https://iuk-business-connect.org.uk/opportunities/epsrc-ai-icure-discover-sprint-february-2027/",
 "location": "UK (hybrid)",
 "org": "Innovate UK Business Connect / EPSRC",
@@ -1690,12 +1691,12 @@
 "status": "Opening soon",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "This is a university-based market-discovery programme, not self-employment, so Student visa holders should be able to take part. The posting does not say.",
-"id": "f26102503"
+"visaNote": "This is a university-based market-discovery programme, not self-employment, so Student visa holders should be able to take part. The posting does not say."
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102504",
 "link": "https://builtinlondon.uk/job/founders-associate/11569038",
 "location": "London",
 "org": "Stacks",
@@ -1704,12 +1705,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned on posting",
-"id": "f26102504"
+"visaNote": "Sponsorship not mentioned on posting"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102505",
 "link": "https://builtinlondon.uk/job/founder-s-associate/11499730",
 "location": "London",
 "org": "Avant Arte",
@@ -1718,12 +1719,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned on posting",
-"id": "f26102505"
+"visaNote": "Sponsorship not mentioned on posting"
 },
 {
 "deadline": "2026-11-07",
 "group": "starting",
+"id": "f26102506",
 "link": "https://luma.com/ppy541re",
 "location": "London",
 "org": "SeedLegals",
@@ -1732,12 +1733,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Networking event; Student visa holders can attend",
-"id": "f26102506"
+"visaNote": "Networking event; Student visa holders can attend"
 },
 {
 "deadline": "2026-10-28",
 "group": "starting",
+"id": "f26102507",
 "link": "https://luma.com/527z8ghx",
 "location": "London",
 "org": "Foundervine",
@@ -1746,12 +1747,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Networking event; Student visa holders can attend",
-"id": "f26102507"
+"visaNote": "Networking event; Student visa holders can attend"
 },
 {
 "deadline": "2026-12-02",
 "group": "starting",
+"id": "f26102508",
 "link": "https://ukhackathons.com/events/maritime-hackathon",
 "location": "London",
 "org": "Imperial Entrepreneurs (with Imperial AUVSoc and Safetytech Accelerator)",
@@ -1760,12 +1761,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; Student visa holders can attend",
-"id": "f26102508"
+"visaNote": "Event; Student visa holders can attend"
 },
 {
 "deadline": "2026-11-25",
 "group": "starting",
+"id": "f26102509",
 "link": "https://ukhackathons.com/events/one-prompt-hackathon-with-lovable-and-yfl",
 "location": "London",
 "org": "Young Founders of London (YFL) x Lovable",
@@ -1774,12 +1775,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; Student visa holders can attend",
-"id": "f26102509"
+"visaNote": "Event; Student visa holders can attend"
 },
 {
 "deadline": "2026-11-14",
 "group": "starting",
+"id": "f26102510",
 "link": "https://luma.com/gc4d127x",
 "location": "London",
 "org": "The Startup Stroll",
@@ -1788,12 +1789,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Networking event; Student visa holders can attend",
-"id": "f26102510"
+"visaNote": "Networking event; Student visa holders can attend"
 },
 {
 "deadline": "2026-12-01",
 "group": "building",
+"id": "f26102601",
 "link": "https://venture-lab.ai/apply/founder",
 "location": "Online",
 "org": "INSEAD AI Venture Lab",
@@ -1802,12 +1803,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Virtual programme; no visa needed to take part",
-"id": "f26102601"
+"visaNote": "Virtual programme; no visa needed to take part"
 },
 {
 "deadline": "2026-10-30",
 "group": "starting",
+"id": "f26102602",
 "link": "https://www.anopenroom.com/london/events/founder-matching-1030",
 "location": "London",
 "org": "Tech Launchpads",
@@ -1816,12 +1817,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Networking event; Student visa holders can attend",
-"id": "f26102602"
+"visaNote": "Networking event; Student visa holders can attend"
 },
 {
 "deadline": "2026-11-03",
 "group": "starting",
+"id": "f26102603",
 "link": "https://www.meetup.com/london-startup-founder-101/events/317103286/",
 "location": "Online",
 "org": "London Startup Founder 101 x OpenVC",
@@ -1830,12 +1831,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Online event; Student visa holders can attend",
-"id": "f26102603"
+"visaNote": "Online event; Student visa holders can attend"
 },
 {
 "deadline": "2026-11-04",
 "group": "starting",
+"id": "f26102604",
 "link": "https://luma.com/ras44psl",
 "location": "London",
 "org": "Antler / Wise Business",
@@ -1844,12 +1845,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Networking event; Student visa holders can attend",
-"id": "f26102604"
+"visaNote": "Networking event; Student visa holders can attend"
 },
 {
 "deadline": "2026-11-14",
 "group": "starting",
+"id": "f26102605",
 "link": "https://luma.com/ddm9u7np",
 "location": "London",
 "org": "Side Project",
@@ -1858,12 +1859,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Coworking event; Student visa holders can attend",
-"id": "f26102605"
+"visaNote": "Coworking event; Student visa holders can attend"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102606",
 "link": "https://seal.run/careers/founder-associate",
 "location": "London",
 "org": "Seal",
@@ -1872,12 +1873,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "f26102606"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f26102701",
 "link": "https://www.ycombinator.com/early-decision",
 "location": "San Francisco, USA",
 "org": "Y Combinator",
@@ -1886,12 +1887,12 @@
 "status": "Open",
 "type": "Accelerator",
 "visa": "Unknown",
-"visaNote": "US-based programme; no UK visa info",
-"id": "f26102701"
+"visaNote": "US-based programme; no UK visa info"
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f26102702",
 "link": "https://www.bethnalgreenventures.com/apply",
 "location": "London (hybrid)",
 "org": "Bethnal Green Ventures",
@@ -1900,12 +1901,12 @@
 "status": "Opening soon",
 "type": "Accelerator",
 "visa": "No",
-"visaNote": "Eligibility requires founders to have UK right to work",
-"id": "f26102702"
+"visaNote": "Eligibility requires founders to have UK right to work"
 },
 {
 "deadline": "Not stated",
 "group": "building",
+"id": "f26102703",
 "link": "https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/better-futures-programme/cleantech-start-support-sustainable-ventures",
 "location": "London",
 "org": "Mayor of London (Better Futures) / Sustainable Ventures",
@@ -1914,12 +1915,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Business support programme; no visa info",
-"id": "f26102703"
+"visaNote": "Business support programme; no visa info"
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f26102704",
 "link": "https://careers.getmurphy.ai/jobs/8195474-founder-s-associate",
 "location": "London (hybrid)",
 "org": "Murphy",
@@ -1928,12 +1929,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "f26102704"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102705",
 "link": "https://jobs.ashbyhq.com/foundational/3d493404-4d4b-4234-a2c4-4b8c766aadbe",
 "location": "London (on-site)",
 "org": "Foundational",
@@ -1942,12 +1943,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "f26102705"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f26102706",
 "link": "https://jobs.ashbyhq.com/claimsorted/57c1289e-2ab0-4d59-a4b8-f7e819c6a576",
 "location": "London",
 "org": "ClaimSorted",
@@ -1956,12 +1957,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Yes",
-"visaNote": "Benefits list Skilled Worker visa sponsorship",
-"id": "f26102706"
+"visaNote": "Benefits list Skilled Worker visa sponsorship"
 },
 {
 "deadline": "2026-11-23",
 "group": "starting",
+"id": "f26102707",
 "link": "https://apply.joinef.com/app/san-francisco-thebridge-winter/",
 "location": "San Francisco, USA",
 "org": "Entrepreneur First",
@@ -1970,12 +1971,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "US residency; overlaps MSc spring term",
-"id": "f26102707"
+"visaNote": "US residency; overlaps MSc spring term"
 },
 {
 "deadline": "2026-11-20",
 "group": "starting",
+"id": "f26102708",
 "link": "https://luma.com/e89bm2zl",
 "location": "London (address after registration)",
 "org": "Bethnal Green Ventures",
@@ -1984,12 +1985,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; no visa needed to attend",
-"id": "f26102708"
+"visaNote": "Event; no visa needed to attend"
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f27",
 "link": "https://foundersfactory.com/studio/",
 "location": "London & Global",
 "org": "Founders Factory",
@@ -1998,12 +1999,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "First-time entrepreneurs listed as a target profile; visa not stated.",
-"id": "f27"
+"visaNote": "First-time entrepreneurs listed as a target profile; visa not stated."
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f28",
 "link": "https://jobs.ashbyhq.com/founders-factory/e5320c8b-2349-4c9b-924e-8f693c27d27b",
 "location": "London",
 "org": "Founders Factory",
@@ -2012,12 +2013,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not stated on board listing.",
-"id": "f28"
+"visaNote": "Sponsorship not stated on board listing."
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f29",
 "link": "https://jobs.ashbyhq.com/founders-factory/7ecaeff7-308a-4a10-9fdb-f3aa5334f128",
 "location": "London",
 "org": "Founders Factory",
@@ -2026,12 +2027,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not stated on board listing.",
-"id": "f29"
+"visaNote": "Sponsorship not stated on board listing."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f30",
 "link": "https://www.deepscienceventures.com/",
 "location": "London",
 "org": "Deep Science Ventures",
@@ -2040,12 +2041,12 @@
 "status": "Open",
 "type": "Programme",
 "visa": "Unknown",
-"visaNote": "Says it is always open to meeting founders; visa not stated.",
-"id": "f30"
+"visaNote": "Says it is always open to meeting founders; visa not stated."
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f31",
 "link": "https://job-boards.greenhouse.io/whalarinc/jobs/5548040004",
 "location": "London (Soho, hybrid)",
 "org": "Whalar",
@@ -2054,12 +2055,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned.",
-"id": "f31"
+"visaNote": "Sponsorship not mentioned."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f32",
 "link": "https://builtinlondon.uk/job/founder-s-associate/10912831",
 "location": "London (in office)",
 "org": "SynX Therapeutics",
@@ -2068,12 +2069,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned; reviewed on rolling basis.",
-"id": "f32"
+"visaNote": "Sponsorship not mentioned; reviewed on rolling basis."
 },
 {
 "deadline": "Not stated",
 "group": "starting",
+"id": "f33",
 "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6500261003",
 "location": "London (Sloane Square)",
 "org": "Private Equity Insights",
@@ -2082,12 +2083,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "No",
-"visaNote": "Requires existing UK/EU/US work permit; 4+ yrs experience.",
-"id": "f33"
+"visaNote": "Requires existing UK/EU/US work permit; 4+ yrs experience."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f34",
 "link": "https://careers.atomico.com/jobs",
 "location": "London & Europe",
 "org": "Atomico",
@@ -2096,12 +2097,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Varies by employer.",
-"id": "f34"
+"visaNote": "Varies by employer."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f35",
 "link": "https://uk.welcometothejungle.com/",
 "location": "London & UK",
 "org": "Welcome to the Jungle (formerly Otta)",
@@ -2110,12 +2111,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "No visa filter shown on homepage; varies by employer.",
-"id": "f35"
+"visaNote": "No visa filter shown on homepage; varies by employer."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f36",
 "link": "https://workinstartups.com/",
 "location": "UK",
 "org": "Work in Startups",
@@ -2124,12 +2125,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "No sponsorship filter; varies by employer.",
-"id": "f36"
+"visaNote": "No sponsorship filter; varies by employer."
 },
 {
 "deadline": "2026-11-21",
 "group": "starting",
+"id": "f37",
 "link": "https://hackkings.kcltech.co.uk",
 "location": "London (Bush House, KCL)",
 "org": "KCL Tech",
@@ -2138,12 +2139,12 @@
 "status": "Opening soon",
 "type": "Event",
 "visa": "Yes",
-"visaNote": "Open to any enrolled university student; free; registration opening soon.",
-"id": "f37"
+"visaNote": "Open to any enrolled university student; free; registration opening soon."
 },
 {
 "deadline": "2026-11-23",
 "group": "starting",
+"id": "f38",
 "link": "https://www.imperialenterpriselab.com/events/vibecoding-bootcamp-2/",
 "location": "Online",
 "org": "Imperial Enterprise Lab",
@@ -2152,12 +2153,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Yes",
-"visaNote": "Student event; no visa implications. Deadline = event start date.",
-"id": "f38"
+"visaNote": "Student event; no visa implications. Deadline = event start date."
 },
 {
 "deadline": "2026-12-02",
 "group": "starting",
+"id": "f39",
 "link": "https://www.imperialenterpriselab.com/events/entrepreneurship-cafe-dec-2026/",
 "location": "London",
 "org": "Imperial Enterprise Lab",
@@ -2166,12 +2167,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Yes",
-"visaNote": "Student event; deadline = event date.",
-"id": "f39"
+"visaNote": "Student event; deadline = event date."
 },
 {
 "deadline": "Rolling",
 "group": "starting",
+"id": "f40",
 "link": "https://www.imperialenterpriselab.com/whatson/community-collider/",
 "location": "London",
 "org": "Imperial Enterprise Lab",
@@ -2180,12 +2181,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Yes",
-"visaNote": "Open to students, staff and alumni; monthly.",
-"id": "f40"
+"visaNote": "Open to students, staff and alumni; monthly."
 },
 {
 "deadline": "2026-11-02",
 "group": "starting",
+"id": "f41",
 "link": "https://www.imperialenterpriselab.com/events/howto-get-investor-ready-2/",
 "location": "Online (Zoom)",
 "org": "Imperial Enterprise Lab",
@@ -2194,12 +2195,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Yes",
-"visaNote": "Student event; deadline = event date.",
-"id": "f41"
+"visaNote": "Student event; deadline = event date."
 },
 {
 "deadline": "2026-12-01",
 "group": "starting",
+"id": "f42",
 "link": "https://www.fintechconnect.com/register",
 "location": "London (ExCeL)",
 "org": "Fintech Connect",
@@ -2208,12 +2209,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Conference 1-2 Dec 2026; ticket terms not stated.",
-"id": "f42"
+"visaNote": "Conference 1-2 Dec 2026; ticket terms not stated."
 },
 {
 "deadline": "2026-10-30",
 "group": "consumer",
+"id": "m00",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/pg/brand-management-summer-internship-2027",
 "location": "Weybridge, Surrey (UK HQ, commutable from London)",
 "org": "Procter & Gamble (P&G UK)",
@@ -2222,12 +2223,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting: must hold own UK right to work 5 Jul-10 Sep 2027; P&G will not sponsor",
-"id": "m00"
+"visaNote": "Posting: must hold own UK right to work 5 Jul-10 Sep 2027; P&G will not sponsor"
 },
 {
 "deadline": "2026-10-30",
 "group": "consumer",
+"id": "m01",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/pg/consumer-analytics-insights-summer-internship-2027",
 "location": "Weybridge, Surrey",
 "org": "Procter & Gamble (P&G UK)",
@@ -2236,12 +2237,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting: own UK right to work 5 Jul-24 Sep 2027 required; no sponsorship",
-"id": "m01"
+"visaNote": "Posting: own UK right to work 5 Jul-24 Sep 2027 required; no sponsorship"
 },
 {
 "deadline": "2026-10-30",
 "group": "consumer",
+"id": "m02",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/pg/sales-summer-internship-2027",
 "location": "Weybridge, Surrey",
 "org": "Procter & Gamble (P&G UK)",
@@ -2250,12 +2251,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting: own UK right to work 5 Jul-20 Aug 2027 required; no sponsorship",
-"id": "m02"
+"visaNote": "Posting: own UK right to work 5 Jul-20 Aug 2027 required; no sponsorship"
 },
 {
 "deadline": "2026-10-30",
 "group": "consumer",
+"id": "m03",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/pg/sales-graduate-2027-1",
 "location": "Weybridge, Surrey",
 "org": "Procter & Gamble (P&G UK)",
@@ -2264,12 +2265,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: continuous UK right to work from day one, P&G will not sponsor; driving licence required",
-"id": "m03"
+"visaNote": "Posting: continuous UK right to work from day one, P&G will not sponsor; driving licence required"
 },
 {
 "deadline": "Rolling",
 "group": "consumer",
+"id": "m04",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/pg/influencer-community-manager",
 "location": "Weybridge, Surrey (hybrid, 3 days office)",
 "org": "Procter & Gamble (P&G UK)",
@@ -2278,12 +2279,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "No",
-"visaNote": "Posting: UK right to work from day one without P&G sponsorship",
-"id": "m04"
+"visaNote": "Posting: UK right to work from day one without P&G sponsorship"
 },
 {
 "deadline": "Rolling",
 "group": "consumer",
+"id": "m05",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/unilever/marketing-unilever-future-leaders-programme-2027",
 "location": "London Blackfriars or Kingston (hybrid)",
 "org": "Unilever",
@@ -2292,40 +2293,40 @@
 "status": "Opening soon",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Opens 30 Nov 2026, Sept 2027 start; posting silent on sponsorship",
-"id": "m05"
+"visaNote": "Opens 30 Nov 2026, Sept 2027 start; posting silent on sponsorship"
 },
 {
-"deadline": "Rolling",
+"deadline": "2026-11-27",
 "group": "consumer",
-"link": "https://www.brightnetwork.co.uk/graduate-jobs/nestle/marketing-graduate-scheme-2027",
+"id": "m06",
+"link": "https://www.nestle.co.uk/jobs/nestle-academy/graduate/marketing-graduate",
 "location": "Crawley (Gatwick)",
 "org": "Nestlé UK & Ireland",
 "role": "Marketing Graduate Scheme 2027",
 "source": "https://www.brightnetwork.co.uk/graduate-jobs/nestle/marketing-graduate-scheme-2027",
-"status": "Opening soon",
+"status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Opens 2 Nov 2026; needs UK right to work not time-limited and not requiring Skilled Worker sponsorship",
-"id": "m06"
+"visaNote": "Opens 2 Nov 2026; needs UK right to work not time-limited and not requiring Skilled Worker sponsorship"
 },
 {
-"deadline": "Rolling",
+"deadline": "2026-11-27",
 "group": "consumer",
-"link": "https://www.brightnetwork.co.uk/graduate-jobs/nestle/sales-graduate-scheme-2027",
+"id": "m07",
+"link": "https://www.nestle.co.uk/en-gb/jobs/nestle-academy/graduate/sales",
 "location": "Gatwick and York",
 "org": "Nestlé UK & Ireland",
 "role": "Sales Graduate Scheme 2027 (applications open 2 Nov 2026; Gatwick and York; any degree, any grade; may close early)",
 "source": "https://www.brightnetwork.co.uk/graduate-jobs/nestle/sales-graduate-scheme-2027",
-"status": "Opening soon",
+"status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting requires UK right to work that is not time-limited and does not need Skilled Worker sponsorship at start or end of scheme",
-"id": "m07"
+"visaNote": "Posting requires UK right to work that is not time-limited and does not need Skilled Worker sponsorship at start or end of scheme"
 },
 {
 "deadline": "Rolling",
 "group": "consumer",
+"id": "m08",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/budweiser-brewing-group-uki/graduate-management-traineeship-programme-gmt-united-kingdom",
 "location": "London (also run in BE, FR, DE, IT, NL)",
 "org": "AB InBev (Budweiser Brewing Group UK&I)",
@@ -2334,12 +2335,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: valid permanent visa/work permit required in country of application; Aug 2027 start",
-"id": "m08"
+"visaNote": "Posting: valid permanent visa/work permit required in country of application; Aug 2027 start"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m09",
 "link": "https://flexa.careers/jobs/mars-mars-leadership-experience-2027-graduate-programme-6aba5dd578eb2a117b96afef",
 "location": "UK (Slough, London, Waltham, Castle Cary)",
 "org": "Mars",
@@ -2348,12 +2349,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Listing silent on sponsorship; apply via Mars Workday (careers.mars.com/UK/en/students-graduates)",
-"id": "m09"
+"visaNote": "Listing silent on sponsorship; apply via Mars Workday (careers.mars.com/UK/en/students-graduates)"
 },
 {
 "deadline": "2026-11-01",
 "group": "consumer",
+"id": "m10",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/ocado-retail/customer-marketing-graduate",
 "location": "Hatfield, Hertfordshire",
 "org": "Ocado Retail",
@@ -2362,12 +2363,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Requires legal right to work for full scheme; sponsorship not mentioned",
-"id": "m10"
+"visaNote": "Requires legal right to work for full scheme; sponsorship not mentioned"
 },
 {
 "deadline": "2026-11-01",
 "group": "consumer",
+"id": "m11",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/ocado-retail/buying-graduate",
 "location": "Hatfield, Hertfordshire",
 "org": "Ocado Retail",
@@ -2376,12 +2377,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Requires legal right to work for full scheme; sponsorship not mentioned",
-"id": "m11"
+"visaNote": "Requires legal right to work for full scheme; sponsorship not mentioned"
 },
 {
 "deadline": "Rolling",
 "group": "consumer",
+"id": "m12",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/lvmh/e-retail-internship-london-2026-apbj",
 "location": "London",
 "org": "LVMH (Guerlain UK)",
@@ -2390,12 +2391,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting silent on right to work/sponsorship; French a plus",
-"id": "m12"
+"visaNote": "Posting silent on right to work/sponsorship; French a plus"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m13",
 "link": "https://www.lvmh.com/join-us/our-job-offers/LVMH03148",
 "location": "Paris, France",
 "org": "LVMH (Holding)",
@@ -2404,12 +2405,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "France internship; requires current Master 2 enrolment, native-level English, intermediate French",
-"id": "m13"
+"visaNote": "France internship; requires current Master 2 enrolment, native-level English, intermediate French"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m14",
 "link": "https://jobs.lever.co/spotify/713eb2e2-23c8-45fd-85a0-323109123ecd",
 "location": "London",
 "org": "Spotify",
@@ -2418,12 +2419,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Posting silent on sponsorship",
-"id": "m14"
+"visaNote": "Posting silent on sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m15",
 "link": "https://job-boards.greenhouse.io/omguk/jobs/4818127007",
 "location": "London",
 "org": "Omnicom Media Group UK",
@@ -2432,12 +2433,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Posting silent on sponsorship",
-"id": "m15"
+"visaNote": "Posting silent on sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m16",
 "link": "https://job-boards.greenhouse.io/omguk/jobs/4752584007",
 "location": "London (Bankside, hybrid)",
 "org": "Omnicom Media Group UK",
@@ -2446,12 +2447,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Posting silent on sponsorship; needs retail media/Amazon background",
-"id": "m16"
+"visaNote": "Posting silent on sponsorship; needs retail media/Amazon background"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m17",
 "link": "https://job-boards.greenhouse.io/interbrand/jobs/7938466",
 "location": "London or Madrid",
 "org": "Interbrand",
@@ -2460,12 +2461,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Posting silent on sponsorship",
-"id": "m17"
+"visaNote": "Posting silent on sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m18",
 "link": "https://www.seymourpowell.com/careers",
 "location": "London",
 "org": "Seymourpowell",
@@ -2474,12 +2475,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Careers page gives no sponsorship info",
-"id": "m18"
+"visaNote": "Careers page gives no sponsorship info"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m19",
 "link": "https://jkrglobal.com/careers/",
 "location": "London",
 "org": "jkr (Jones Knowles Ritchie)",
@@ -2488,12 +2489,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Careers page gives no sponsorship info",
-"id": "m19"
+"visaNote": "Careers page gives no sponsorship info"
 },
 {
 "deadline": "2026-10-31",
 "group": "consumer",
+"id": "m26102101",
 "link": "https://targetjobs.co.uk/jobs/finance-graduate-scheme-245089",
 "location": "Welwyn Garden City (hybrid, ~60% on site)",
 "org": "Tesco",
@@ -2502,12 +2503,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Tesco Stores Ltd is on the Home Office register of licensed sponsors, and Tesco's early-careers benefits list mentions Skilled Worker visas; the posting itself doesn't mention sponsorship",
-"id": "m26102101"
+"visaNote": "Tesco Stores Ltd is on the Home Office register of licensed sponsors, and Tesco's early-careers benefits list mentions Skilled Worker visas; the posting itself doesn't mention sponsorship"
 },
 {
 "deadline": "2026-10-31",
 "group": "consumer",
+"id": "m26102102",
 "link": "https://targetjobs.co.uk/jobs/product-home-and-clothing-graduate-scheme-245091",
 "location": "Welwyn Garden City (hybrid)",
 "org": "Tesco",
@@ -2516,12 +2517,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Tesco is a licensed sponsor, but the £33k salary is below the Skilled Worker new-entrant threshold (~£33.4k); not stated on posting",
-"id": "m26102102"
+"visaNote": "Tesco is a licensed sponsor, but the £33k salary is below the Skilled Worker new-entrant threshold (~£33.4k); not stated on posting"
 },
 {
 "deadline": "2026-10-31",
 "group": "consumer",
+"id": "m26102103",
 "link": "https://targetjobs.co.uk/jobs/technology-product-management-graduate-scheme-245101",
 "location": "Welwyn Garden City (hybrid)",
 "org": "Tesco",
@@ -2530,12 +2531,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Tesco Stores Ltd is on the Home Office register of licensed sponsors; the posting doesn't mention sponsorship",
-"id": "m26102103"
+"visaNote": "Tesco Stores Ltd is on the Home Office register of licensed sponsors; the posting doesn't mention sponsorship"
 },
 {
 "deadline": "2026-10-31",
 "group": "consumer",
+"id": "m26102104",
 "link": "https://targetjobs.co.uk/jobs/product-supply-chain-graduate-scheme-245097",
 "location": "Welwyn Garden City (hybrid)",
 "org": "Tesco",
@@ -2544,12 +2545,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Tesco is a licensed sponsor, but the £33k salary is below the Skilled Worker new-entrant threshold (~£33.4k); not stated on posting",
-"id": "m26102104"
+"visaNote": "Tesco is a licensed sponsor, but the £33k salary is below the Skilled Worker new-entrant threshold (~£33.4k); not stated on posting"
 },
 {
 "deadline": "2026-12-10",
 "group": "consumer",
+"id": "m26102106",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/asda/buying-graduate-programme-2027",
 "location": "Leeds (Asda House, 3+ days in office)",
 "org": "Asda",
@@ -2558,12 +2559,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "The posting says Asda does not sponsor visas for graduate programmes and requires continuous UK right to work",
-"id": "m26102106"
+"visaNote": "The posting says Asda does not sponsor visas for graduate programmes and requires continuous UK right to work"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m26102107",
 "link": "https://job-boards.greenhouse.io/ogilvyuk/jobs/4591092005",
 "location": "London",
 "org": "Ogilvy UK (WPP)",
@@ -2572,12 +2573,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "The posting doesn't mention sponsorship",
-"id": "m26102107"
+"visaNote": "The posting doesn't mention sponsorship"
 },
 {
 "deadline": "2026-11-15",
 "group": "consumer",
+"id": "m26102201",
 "link": "https://apply.skyearlycareers.targetconnect.com/business-operations-graduate-programme-osterley-2027/917/viewdetails",
 "location": "Osterley, London",
 "org": "Sky",
@@ -2586,12 +2587,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Sky page states 'Sky do not offer sponsorship for this role'",
-"id": "m26102201"
+"visaNote": "Sky page states 'Sky do not offer sponsorship for this role'"
 },
 {
 "deadline": "2026-11-08",
 "group": "consumer",
+"id": "m26102202",
 "link": "https://targetjobs.co.uk/jobs/fashion-home-and-beauty-graduate-programme-online-248053",
 "location": "London (hybrid)",
 "org": "Marks & Spencer",
@@ -2600,12 +2601,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "m26102202"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-11-08",
 "group": "consumer",
+"id": "m26102203",
 "link": "https://targetjobs.co.uk/jobs/fashion-home-beauty-graduate-programme-supply-chain-and-logistics-248051",
 "location": "Castle Donington, Derby (in person)",
 "org": "Marks & Spencer",
@@ -2614,12 +2615,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "m26102203"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-12-11",
 "group": "consumer",
+"id": "m26102204",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/carlsberg-britvic/commercial-sales-graduate-sep-2027",
 "location": "Hemel Hempstead (3 days/week onsite)",
 "org": "Carlsberg Britvic",
@@ -2628,12 +2629,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "m26102204"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-10-30",
 "group": "consumer",
+"id": "m26102205",
 "link": "https://www.brightnetwork.co.uk/graduate-events/publicis-groupe/publicis-groupe-march-discovery-session",
 "location": "Virtual",
 "org": "Publicis Groupe",
@@ -2642,12 +2643,12 @@
 "status": "Open",
 "type": "Event",
 "visa": "Unknown",
-"visaNote": "Event; no sponsorship info",
-"id": "m26102205"
+"visaNote": "Event; no sponsorship info"
 },
 {
 "deadline": "2026-11-01",
 "group": "consumer",
+"id": "m26102301",
 "link": "https://targetjobs.co.uk/jobs/graduate-finance-253753",
 "location": "Uxbridge, London",
 "org": "Coca-Cola Europacific Partners (CCEP)",
@@ -2656,12 +2657,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting says 'eligible to work in the UK'; sponsorship not mentioned",
-"id": "m26102301"
+"visaNote": "Posting says 'eligible to work in the UK'; sponsorship not mentioned"
 },
 {
 "deadline": "2026-12-11",
 "group": "consumer",
+"id": "m26102302",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/carlsberg-britvic/finance-graduate-2027",
 "location": "Hemel Hempstead",
 "org": "Carlsberg Britvic",
@@ -2670,12 +2671,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting; may close early",
-"id": "m26102302"
+"visaNote": "Not stated on posting; may close early"
 },
 {
 "deadline": "2026-11-08",
 "group": "consumer",
+"id": "m26102303",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/asda/finance-graduate-programme-2027",
 "location": "Leeds",
 "org": "Asda",
@@ -2684,12 +2685,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting requires continuous UK right to work",
-"id": "m26102303"
+"visaNote": "Posting requires continuous UK right to work"
 },
 {
 "deadline": "2026-10-26",
 "group": "consumer",
+"id": "m26102304",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/mitchells-butlers/marketing-graduate-scheme-birmingham-2027-aog0",
 "location": "Birmingham",
 "org": "Mitchells & Butlers",
@@ -2698,12 +2699,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting; may close early",
-"id": "m26102304"
+"visaNote": "Not stated on posting; may close early"
 },
 {
 "deadline": "2026-10-26",
 "group": "consumer",
+"id": "m26102401",
 "link": "https://targetjobs.co.uk/jobs/buying-graduate-programme-246615",
 "location": "Tolworth (Surbiton), London",
 "org": "Lidl GB",
@@ -2712,12 +2713,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting requires legal entitlement to work in the UK full-time; sponsorship not mentioned.",
-"id": "m26102401"
+"visaNote": "Posting requires legal entitlement to work in the UK full-time; sponsorship not mentioned."
 },
 {
 "deadline": "2026-10-26",
 "group": "consumer",
+"id": "m26102402",
 "link": "https://targetjobs.co.uk/jobs/procurement-graduate-programme-246601",
 "location": "Tolworth (Surbiton), London",
 "org": "Lidl GB",
@@ -2726,12 +2727,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting requires legal entitlement to work in the UK full-time; sponsorship not mentioned.",
-"id": "m26102402"
+"visaNote": "Posting requires legal entitlement to work in the UK full-time; sponsorship not mentioned."
 },
 {
 "deadline": "2026-10-31",
 "group": "consumer",
+"id": "m26102403",
 "link": "https://targetjobs.co.uk/jobs/trainee-merchandiser-2027-249471",
 "location": "Leicester (hybrid)",
 "org": "Next",
@@ -2740,12 +2741,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting states the role is not eligible for Skilled Worker sponsorship; Next will not sponsor after training.",
-"id": "m26102403"
+"visaNote": "Posting states the role is not eligible for Skilled Worker sponsorship; Next will not sponsor after training."
 },
 {
 "deadline": "2026-11-06",
 "group": "consumer",
+"id": "m26102404",
 "link": "https://targetjobs.co.uk/jobs/trainee-buyer-2027-249469",
 "location": "Leicester (hybrid)",
 "org": "Next",
@@ -2754,12 +2755,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting states the role is not eligible for Skilled Worker sponsorship; Next will not sponsor after training.",
-"id": "m26102404"
+"visaNote": "Posting states the role is not eligible for Skilled Worker sponsorship; Next will not sponsor after training."
 },
 {
 "deadline": "2026-11-14",
 "group": "consumer",
+"id": "m26102405",
 "link": "https://targetjobs.co.uk/jobs/kepak-marketing-graduate-programme-2027-uk-250699",
 "location": "Kirkham, Lancashire (travel to UK/Ireland sites)",
 "org": "Kepak",
@@ -2768,12 +2769,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned in posting.",
-"id": "m26102405"
+"visaNote": "Sponsorship not mentioned in posting."
 },
 {
 "deadline": "2026-12-01",
 "group": "consumer",
+"id": "m26102406",
 "link": "https://www.gradcracker.com/hub/638/morrisons/graduate-job/82320/buying-graduate-scheme",
 "location": "Bradford (Hilmore House)",
 "org": "Morrisons",
@@ -2782,12 +2783,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting requires right to work in the UK for the full duration of the scheme; sponsorship not mentioned.",
-"id": "m26102406"
+"visaNote": "Posting requires right to work in the UK for the full duration of the scheme; sponsorship not mentioned."
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m26102407",
 "link": "https://higherin.com/jobs/42912/loreal/register-your-interest-graduate-schemes-2027",
 "location": "London (White City)",
 "org": "L'Oréal UK & Ireland",
@@ -2796,12 +2797,12 @@
 "status": "Opening soon",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned.",
-"id": "m26102407"
+"visaNote": "Sponsorship not mentioned."
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m26102501",
 "link": "https://omgukcareers.com/early-careers/",
 "location": "London (Bankside, Southwark)",
 "org": "Omnicom Media Group UK",
@@ -2810,12 +2811,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "m26102501"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-11-15",
 "group": "consumer",
+"id": "m26102601",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/sky/business-sales-graduate-programme-2027",
 "location": "Leeds, then Leeds or Osterley",
 "org": "Sky",
@@ -2824,12 +2825,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting states Sky does not offer sponsorship; UK right to work needed for the full programme",
-"id": "m26102601"
+"visaNote": "Posting states Sky does not offer sponsorship; UK right to work needed for the full programme"
 },
 {
 "deadline": "2026-12-01",
 "group": "consumer",
+"id": "m26102602",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/marriott-international/voyage-program-event-management-london-2027-ap42",
 "location": "London",
 "org": "Marriott International",
@@ -2838,12 +2839,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting requires right to work in the country; UK sponsorship not mentioned",
-"id": "m26102602"
+"visaNote": "Posting requires right to work in the country; UK sponsorship not mentioned"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m26102701",
 "link": "https://careers.reckitt.com/job/Slough-Marketing-Graduate-%28Future-Leadership-Scheme%29-Berk-SL1-1DT/1444406733/",
 "location": "Slough, UK",
 "org": "Reckitt",
@@ -2852,12 +2853,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting silent; Reckitt's UK entities are licensed Skilled Worker sponsors, but confirm sponsorship for the scheme",
-"id": "m26102701"
+"visaNote": "Posting silent; Reckitt's UK entities are licensed Skilled Worker sponsors, but confirm sponsorship for the scheme"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m26102702",
 "link": "https://careers.reckitt.com/job/Slough-Finance-Graduate-%28Future-Leadership-Scheme%29-Berk-SL1-1DT/1444407233/",
 "location": "Slough, UK (year 2 at a factory site)",
 "org": "Reckitt",
@@ -2866,12 +2867,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting silent; Reckitt's UK entities are licensed Skilled Worker sponsors, but confirm sponsorship for the scheme",
-"id": "m26102702"
+"visaNote": "Posting silent; Reckitt's UK entities are licensed Skilled Worker sponsors, but confirm sponsorship for the scheme"
 },
 {
 "deadline": "Not stated",
 "group": "consumer",
+"id": "m26102703",
 "link": "https://careers.reckitt.com/job/Slough-Sales-Graduate-%28Future-Leadership-Scheme%29-Berk-SL1-1DT/1444448933/",
 "location": "Slough, UK",
 "org": "Reckitt",
@@ -2880,12 +2881,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting silent; Reckitt's UK entities are licensed Skilled Worker sponsors, but confirm sponsorship for the scheme",
-"id": "m26102703"
+"visaNote": "Posting silent; Reckitt's UK entities are licensed Skilled Worker sponsors, but confirm sponsorship for the scheme"
 },
 {
 "deadline": "2026-11-15",
 "group": "consumer",
+"id": "m26102704",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/sky/data-and-analytics-graduate-programme-2027",
 "location": "Osterley, London",
 "org": "Sky",
@@ -2894,12 +2895,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: Sky does not offer sponsorship; UK right to work needed for the full programme",
-"id": "m26102704"
+"visaNote": "Posting: Sky does not offer sponsorship; UK right to work needed for the full programme"
 },
 {
 "deadline": "2026-12-09",
 "group": "consumer",
+"id": "m26102705",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/asda/procurement-graduate-programme-2027",
 "location": "Leeds (Asda House, 3 days/week)",
 "org": "Asda",
@@ -2908,12 +2909,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: Asda does not sponsor graduate programmes",
-"id": "m26102705"
+"visaNote": "Posting: Asda does not sponsor graduate programmes"
 },
 {
 "deadline": "2026-12-27",
 "group": "consumer",
+"id": "m26102706",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/asda/supply-chain-logistics-graduate-programme-2027",
 "location": "Leeds (Asda House, 3 days/week)",
 "org": "Asda",
@@ -2922,12 +2923,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: Asda does not sponsor graduate programmes",
-"id": "m26102706"
+"visaNote": "Posting: Asda does not sponsor graduate programmes"
 },
 {
 "deadline": "2026-12-31",
 "group": "consumer",
+"id": "m26102707",
 "link": "https://higherin.com/jobs/44027/aldi/graduate-area-manager-2027-chelmsford",
 "location": "Chelmsford (other UK regions also recruiting)",
 "org": "Aldi",
@@ -2936,12 +2937,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Employer page requires UK right to work; does not mention sponsorship",
-"id": "m26102707"
+"visaNote": "Employer page requires UK right to work; does not mention sponsorship"
 },
 {
 "deadline": "2026-11-13",
 "group": "tech",
+"id": "t00",
 "link": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102-associate-product-manager-bsms-intern-2027",
 "location": "London, UK",
 "org": "Google",
@@ -2950,12 +2951,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship",
-"id": "t00"
+"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship"
 },
 {
 "deadline": "2026-11-13",
 "group": "tech",
+"id": "t01",
 "link": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582-forward-deployed-engineering-intern-bsms-2027",
 "location": "London, UK",
 "org": "Google",
@@ -2964,12 +2965,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship",
-"id": "t01"
+"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship"
 },
 {
 "deadline": "2026-11-20",
 "group": "tech",
+"id": "t02",
 "link": "https://www.google.com/about/careers/applications/jobs/results/112940936274551494-product-deployment-engineer-bsms-intern-2027-english",
 "location": "London, UK",
 "org": "Google",
@@ -2978,12 +2979,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship",
-"id": "t02"
+"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship"
 },
 {
 "deadline": "2026-11-13",
 "group": "tech",
+"id": "t03",
 "link": "https://www.google.com/about/careers/applications/jobs/results/129079164220121798-associate-product-marketing-manager-bsms-intern-2027",
 "location": "London, UK",
 "org": "Google",
@@ -2992,12 +2993,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship",
-"id": "t03"
+"visaNote": "Posting states applicants 'will not be eligible for immigration sponsorship'; must be in UK for whole internship"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t04",
 "link": "https://www.revolut.com/careers/position/554c4b14-c988-4c35-bd06-702acf4f36f7",
 "location": "London (also Barcelona, Krakow, Lisbon, Madrid, Dubai)",
 "org": "Revolut",
@@ -3006,12 +3007,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'; start Mar or Sep 2027",
-"id": "t04"
+"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'; start Mar or Sep 2027"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t05",
 "link": "https://www.revolut.com/careers/position/48244271-6656-42f9-ab2c-caf4531593d3",
 "location": "London (also Barcelona, Krakow, Lisbon, Madrid, Dubai)",
 "org": "Revolut",
@@ -3020,12 +3021,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'",
-"id": "t05"
+"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t06",
 "link": "https://www.revolut.com/careers/position/fb71028e-634a-46bf-8be7-d85a3f929854",
 "location": "London (also Barcelona, Krakow, Lisbon, Madrid, Dubai)",
 "org": "Revolut",
@@ -3034,12 +3035,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'",
-"id": "t06"
+"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t07",
 "link": "https://www.revolut.com/careers/position/9bb26c86-9461-4e89-a460-7dc9a067b018",
 "location": "London (also Barcelona, Lisbon, Madrid, Dubai)",
 "org": "Revolut",
@@ -3048,12 +3049,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'; 8-10 weeks from Jun/Jul 2027",
-"id": "t07"
+"visaNote": "Posting offers 'visa assistance, travel costs, and accommodation (conditions apply)'; 8-10 weeks from Jun/Jul 2027"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t08",
 "link": "https://jobs.lever.co/palantir/79c3f906-622b-4261-8fc6-8af0028caa27",
 "location": "London, UK",
 "org": "Palantir",
@@ -3062,12 +3063,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "Posting silent on visas; Palantir Technologies UK is a known UK licensed Skilled Worker sponsor (verify with recruiter)",
-"id": "t08"
+"visaNote": "Posting silent on visas; Palantir Technologies UK is a known UK licensed Skilled Worker sponsor (verify with recruiter)"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t09",
 "link": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0",
 "location": "London, UK",
 "org": "Palantir",
@@ -3076,12 +3077,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting silent on visas; Palantir Technologies UK is a known UK licensed Skilled Worker sponsor (verify with recruiter)",
-"id": "t09"
+"visaNote": "Posting silent on visas; Palantir Technologies UK is a known UK licensed Skilled Worker sponsor (verify with recruiter)"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t10",
 "link": "https://www.amazon.jobs/en/jobs/10578290/solutions-architect-advertising-publishing-and-information-services-uki",
 "location": "London, UK",
 "org": "Amazon (AWS)",
@@ -3090,12 +3091,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "Posting silent on visas; Amazon UK Services Ltd is a known UK licensed Skilled Worker sponsor",
-"id": "t10"
+"visaNote": "Posting silent on visas; Amazon UK Services Ltd is a known UK licensed Skilled Worker sponsor"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t11",
 "link": "https://stripe.com/careers/listing/solutions-architect-enterprise-uk/7882492",
 "location": "London, UK",
 "org": "Stripe",
@@ -3104,12 +3105,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "Posting silent on visas; Stripe Payments UK Ltd is a known UK licensed sponsor (verify with recruiter)",
-"id": "t11"
+"visaNote": "Posting silent on visas; Stripe Payments UK Ltd is a known UK licensed sponsor (verify with recruiter)"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t12",
 "link": "https://stripe.com/careers/listing/solutions-architect-platforms-uk/8147491",
 "location": "London, UK",
 "org": "Stripe",
@@ -3118,12 +3119,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "Posting silent on visas; Stripe Payments UK Ltd is a known UK licensed sponsor (verify with recruiter)",
-"id": "t12"
+"visaNote": "Posting silent on visas; Stripe Payments UK Ltd is a known UK licensed sponsor (verify with recruiter)"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t13",
 "link": "https://job-boards.greenhouse.io/monzo/jobs/8156058",
 "location": "London, UK (or distributed UK)",
 "org": "Monzo",
@@ -3132,12 +3133,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Yes",
-"visaNote": "Posting states 'We can sponsor your visa'; closes once enough applications received",
-"id": "t13"
+"visaNote": "Posting states 'We can sponsor your visa'; closes once enough applications received"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t14",
 "link": "https://jobs.lever.co/spotify/7f0a8faa-f4f5-4db9-9f51-4101d6a29b34",
 "location": "London, UK",
 "org": "Spotify",
@@ -3146,12 +3147,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Posting does not mention visa or relocation",
-"id": "t14"
+"visaNote": "Posting does not mention visa or relocation"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t15",
 "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
 "location": "London, UK",
 "org": "Databricks",
@@ -3160,12 +3161,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Posting has no visa text; mentions US export-control licence checks",
-"id": "t15"
+"visaNote": "Posting has no visa text; mentions US export-control licence checks"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t16",
 "link": "https://jobs.booking.com/booking/jobs/30449",
 "location": "Amsterdam, Netherlands",
 "org": "Booking.com",
@@ -3174,12 +3175,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Not stated on posting (Netherlands role; posted 2026-10-14)",
-"id": "t16"
+"visaNote": "Not stated on posting (Netherlands role; posted 2026-10-14)"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t19",
 "link": "https://www.gradcracker.com/hub/615/ey/graduate-job/84991/technology-consulting-graduate-programme-september-2027-intake",
 "location": "London (also Manchester, Bristol, Edinburgh, Belfast, Derry)",
 "org": "EY",
@@ -3188,12 +3189,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting silent on visas; Ernst & Young LLP is a known UK licensed sponsor (confirm for grad scheme); may close early when filled",
-"id": "t19"
+"visaNote": "Posting silent on visas; Ernst & Young LLP is a known UK licensed sponsor (confirm for grad scheme); may close early when filled"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t20",
 "link": "https://www.gradcracker.com/hub/691/reply/graduate-job/85284/graduate-business-analyst",
 "location": "London, UK",
 "org": "Reply",
@@ -3202,12 +3203,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention visa sponsorship; start Summer/Autumn 2027",
-"id": "t20"
+"visaNote": "Posting does not mention visa sponsorship; start Summer/Autumn 2027"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t21",
 "link": "https://www.gradcracker.com/hub/401/pa-consulting-group/graduate-job/86426/2027-graduate-digital-digital-and-data-analyst",
 "location": "London (Victoria, hybrid)",
 "org": "PA Consulting",
@@ -3216,12 +3217,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting states PA does not sponsor visas",
-"id": "t21"
+"visaNote": "Posting states PA does not sponsor visas"
 },
 {
 "deadline": "2026-12-15",
 "group": "tech",
+"id": "t23",
 "link": "https://www.gradcracker.com/hub/71/shell/graduate-job/83265/information-and-digital-technology-idt-shell-graduate-programme-2027",
 "location": "London, UK",
 "org": "Shell",
@@ -3230,12 +3231,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting silent on sponsorship; requires UK degree (Bachelor's/Master's)",
-"id": "t23"
+"visaNote": "Posting silent on sponsorship; requires UK degree (Bachelor's/Master's)"
 },
 {
 "deadline": "2027-01-29",
 "group": "tech",
+"id": "t24",
 "link": "https://www.gradcracker.com/hub/111/bp/graduate-job/86262/graduate-digital-data-ai-and-engineering",
 "location": "London (Hybrid) or Sunbury",
 "org": "bp",
@@ -3244,12 +3245,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not verified on posting (detail page failed to load; deadline from Gradcracker results list); start 6 Sept 2027",
-"id": "t24"
+"visaNote": "Not verified on posting (detail page failed to load; deadline from Gradcracker results list); start 6 Sept 2027"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t25",
 "link": "https://careers.arm.com/job/budapest/graduate-software-engineer/33099/101386258448",
 "location": "Budapest, Hungary",
 "org": "Arm",
@@ -3258,12 +3259,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting states visa sponsorship support is available; relocation within Europe supported; posted 2026-10-01, first come first served",
-"id": "t25"
+"visaNote": "Posting states visa sponsorship support is available; relocation within Europe supported; posted 2026-10-01, first come first served"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26",
 "link": "https://careers.arm.com/job/budapest/graduate-engineer-system-ip-engineering/33099/101386258416",
 "location": "Budapest, Hungary",
 "org": "Arm",
@@ -3272,12 +3273,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting states visa sponsorship support is available; relocation within Europe supported; posted 2026-10-01",
-"id": "t26"
+"visaNote": "Posting states visa sponsorship support is available; relocation within Europe supported; posted 2026-10-01"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102101",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/salesforce/sales-strategy-graduate-london-2027-apke",
 "location": "London (3 days/week in office)",
 "org": "Salesforce",
@@ -3286,12 +3287,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned on posting; check Salesforce UK entity on Home Office sponsor register",
-"id": "t26102101"
+"visaNote": "Sponsorship not mentioned on posting; check Salesforce UK entity on Home Office sponsor register"
 },
 {
 "deadline": "2026-11-30",
 "group": "tech",
+"id": "t26102102",
 "link": "https://targetjobs.co.uk/jobs/2027-analytics-sales-italian-speakers-239507",
 "location": "London (hybrid)",
 "org": "Bloomberg",
@@ -3300,12 +3301,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting says sponsorship available if eligible for Skilled Worker New Entrant route (e.g. under 26, or recent Student/Graduate route)",
-"id": "t26102102"
+"visaNote": "Posting says sponsorship available if eligible for Skilled Worker New Entrant route (e.g. under 26, or recent Student/Graduate route)"
 },
 {
 "deadline": "2026-11-15",
 "group": "tech",
+"id": "t26102104",
 "link": "https://apply.skyearlycareers.targetconnect.com/emerging-technology-graduate-programme-osterley-2027/911/viewdetails",
 "location": "Osterley, West London (also Livingston, Scotland)",
 "org": "Sky",
@@ -3314,12 +3315,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Sky states it does not offer sponsorship for its programmes",
-"id": "t26102104"
+"visaNote": "Sky states it does not offer sponsorship for its programmes"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t26102105",
 "link": "https://higherin.com/jobs/43021/visa/register-your-interest-consulting-analytics-graduate-programme-2027",
 "location": "London (hybrid)",
 "org": "Visa",
@@ -3328,12 +3329,12 @@
 "status": "Opening soon",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: 'Permanent Authorization to work in the U.K is a precondition of employment' and 'Visa will not provide sponsorship for this role.'",
-"id": "t26102105"
+"visaNote": "Posting: 'Permanent Authorization to work in the U.K is a precondition of employment' and 'Visa will not provide sponsorship for this role.'"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102106",
 "link": "https://lifeattiktok.com/search/7681323077355620661",
 "location": "London",
 "org": "TikTok",
@@ -3342,12 +3343,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "t26102106"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102107",
 "link": "https://lifeattiktok.com/search/7673900897307167029",
 "location": "London",
 "org": "TikTok",
@@ -3356,12 +3357,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "t26102107"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102201",
 "link": "https://wise.jobs/job/graduate-product-analyst-in-london-jid-4353",
 "location": "London",
 "org": "Wise",
@@ -3370,12 +3371,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Licensed UK Skilled Worker sponsor (Home Office register, Wise Payments Ltd); posting itself silent on sponsorship",
-"id": "t26102201"
+"visaNote": "Licensed UK Skilled Worker sponsor (Home Office register, Wise Payments Ltd); posting itself silent on sponsorship"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102202",
 "link": "https://wise.jobs/job/graduate-data-scientist-in-london-jid-4351",
 "location": "London",
 "org": "Wise",
@@ -3384,12 +3385,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Licensed UK Skilled Worker sponsor (Home Office register, Wise Payments Ltd); posting says must be eligible to work in London",
-"id": "t26102202"
+"visaNote": "Licensed UK Skilled Worker sponsor (Home Office register, Wise Payments Ltd); posting says must be eligible to work in London"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102203",
 "link": "https://wise.jobs/job/design-and-research-operations-graduate-in-london-jid-4346",
 "location": "London",
 "org": "Wise",
@@ -3398,12 +3399,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Licensed UK Skilled Worker sponsor (Home Office register, Wise Payments Ltd); posting silent on sponsorship",
-"id": "t26102203"
+"visaNote": "Licensed UK Skilled Worker sponsor (Home Office register, Wise Payments Ltd); posting silent on sponsorship"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102204",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/amazon/business-analyst-internship-3-6-and-12-months-2027",
 "location": "London (also Manchester)",
 "org": "Amazon",
@@ -3412,12 +3413,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting requires right to work in UK by start date; no sponsorship statement (Amazon UK is a licensed sponsor but internships typically not sponsored)",
-"id": "t26102204"
+"visaNote": "Posting requires right to work in UK by start date; no sponsorship statement (Amazon UK is a licensed sponsor but internships typically not sponsored)"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102301",
 "link": "https://job-boards.greenhouse.io/appian/jobs/8200996",
 "location": "London",
 "org": "Appian",
@@ -3426,12 +3427,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "No sponsorship statement; application form asks whether you need sponsorship",
-"id": "t26102301"
+"visaNote": "No sponsorship statement; application form asks whether you need sponsorship"
 },
 {
 "deadline": "2026-11-28",
 "group": "tech",
+"id": "t26102302",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/london-stock-exchange-group/business-graduate-programme-ftse-russell-london-2027-anxb",
 "location": "London",
 "org": "LSEG (London Stock Exchange Group)",
@@ -3440,12 +3441,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting requires unrestricted UK right to work for the whole programme; rolling review",
-"id": "t26102302"
+"visaNote": "Posting requires unrestricted UK right to work for the whole programme; rolling review"
 },
 {
 "deadline": "2026-11-16",
 "group": "tech",
+"id": "t26102303",
 "link": "https://www.gradcracker.com/hub/300/london-stock-exchange-group/graduate-job/84093/engineering-graduate-programme-business-analysis-project-management",
 "location": "London (hybrid)",
 "org": "LSEG (London Stock Exchange Group)",
@@ -3454,12 +3455,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting requires unrestricted UK right to work; rolling review",
-"id": "t26102303"
+"visaNote": "Posting requires unrestricted UK right to work; rolling review"
 },
 {
 "deadline": "2026-10-25",
 "group": "tech",
+"id": "t26102304",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/zopa/2027-graduate-analyst",
 "location": "London (Canary Wharf, hybrid)",
 "org": "Zopa",
@@ -3468,12 +3469,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "t26102304"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2027-05-31",
 "group": "tech",
+"id": "t26102305",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/gartner/account-manager-2027-graduates-french-speakers",
 "location": "Barcelona, Spain (hybrid)",
 "org": "Gartner",
@@ -3482,12 +3483,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Spain-based role; not stated on posting",
-"id": "t26102305"
+"visaNote": "Spain-based role; not stated on posting"
 },
 {
 "deadline": "2026-11-15",
 "group": "tech",
+"id": "t26102401",
 "link": "https://www.gradcracker.com/hub/392/sky/graduate-job/86577/digital-graduate-programme",
 "location": "Osterley, West London",
 "org": "Sky",
@@ -3496,12 +3497,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting states Sky does not offer sponsorship; right to work in the UK for the full programme required.",
-"id": "t26102401"
+"visaNote": "Posting states Sky does not offer sponsorship; right to work in the UK for the full programme required."
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102402",
 "link": "https://www.gradcracker.com/hub/848/tesco/graduate-job/83543/technology-programme-management-graduate-scheme",
 "location": "Welwyn Garden City, Hertfordshire",
 "org": "Tesco",
@@ -3510,12 +3511,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship. Tesco is understood to be a UK licensed Skilled Worker sponsor, but sponsorship for this role is not confirmed. Check with the employer.",
-"id": "t26102402"
+"visaNote": "Posting does not mention sponsorship. Tesco is understood to be a UK licensed Skilled Worker sponsor, but sponsorship for this role is not confirmed. Check with the employer."
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102403",
 "link": "https://www.gradcracker.com/hub/368/capgemini-engineering/graduate-job/86842/accelerate-graduate-programme-business-technology",
 "location": "London (hybrid, client-site travel)",
 "org": "Capgemini",
@@ -3524,12 +3525,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship and pre-employment checks cover nationality/immigration status and security-clearance eligibility. Capgemini UK is a licensed Skilled Worker sponsor, but sponsorship for this role is not confirmed.",
-"id": "t26102403"
+"visaNote": "Posting does not mention sponsorship and pre-employment checks cover nationality/immigration status and security-clearance eligibility. Capgemini UK is a licensed Skilled Worker sponsor, but sponsorship for this role is not confirmed."
 },
 {
 "deadline": "2026-10-29",
 "group": "tech",
+"id": "t26102404",
 "link": "https://www.gradcracker.com/hub/82/centrica/graduate-job/86273/technology-graduate",
 "location": "Multiple UK locations (hybrid; relocation may be needed)",
 "org": "Centrica",
@@ -3538,12 +3539,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting requires UK right to work and does not mention sponsorship.",
-"id": "t26102404"
+"visaNote": "Posting requires UK right to work and does not mention sponsorship."
 },
 {
 "deadline": "2026-11-12",
 "group": "tech",
+"id": "t26102405",
 "link": "https://www.gradcracker.com/hub/169/arup/graduate-job/85931/graduate-technology-consulting-and-system-design-consultant",
 "location": "London",
 "org": "Arup",
@@ -3552,12 +3553,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting states Arup cannot offer visa sponsorship for this role; permanent UK right to work required.",
-"id": "t26102405"
+"visaNote": "Posting states Arup cannot offer visa sponsorship for this role; permanent UK right to work required."
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t26102501",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/lloyds-banking-group/product-and-partnerships-graduate-scheme-2027",
 "location": "Manchester / Bristol / Leeds / Edinburgh",
 "org": "Lloyds Banking Group",
@@ -3566,12 +3567,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting says the employer cannot support visas",
-"id": "t26102501"
+"visaNote": "Posting says the employer cannot support visas"
 },
 {
 "deadline": "2026-11-08",
 "group": "tech",
+"id": "t26102601",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alpha-fmc/data-ai-digital-engineering-analyst-graduate-2027",
 "location": "London",
 "org": "Alpha FMC",
@@ -3580,12 +3581,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "t26102601"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-12-31",
 "group": "tech",
+"id": "t26102602",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/alpha-fmc/asset-and-wealth-technology-consulting-graduate-analyst-2027",
 "location": "London",
 "org": "Alpha FMC",
@@ -3594,12 +3595,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "t26102602"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-11-29",
 "group": "tech",
+"id": "t26102603",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/lloyds-banking-group/data-science-and-ai-graduate-scheme-2027",
 "location": "Bristol, Edinburgh, Leeds or Manchester (London closed)",
 "org": "Lloyds Banking Group",
@@ -3608,12 +3609,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting states Lloyds cannot sponsor visas",
-"id": "t26102603"
+"visaNote": "Posting states Lloyds cannot sponsor visas"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102701",
 "link": "https://www.revolut.com/careers/position/f95a2dda-30a6-4fef-af87-db97199df832",
 "location": "London (also Barcelona, Dubai, Krakow, Lisbon, Madrid; hybrid)",
 "org": "Revolut",
@@ -3622,12 +3623,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting offers visa assistance + relocation for international hires to UK hub; Revolut is a UK licensed sponsor",
-"id": "t26102701"
+"visaNote": "Posting offers visa assistance + relocation for international hires to UK hub; Revolut is a UK licensed sponsor"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t26102702",
 "link": "https://targetjobs.co.uk/jobs/ai-solution-architect-graduate-byteplus-241791",
 "location": "London",
 "org": "ByteDance (BytePlus)",
@@ -3636,12 +3637,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Not stated in posting; ByteDance/TikTok UK entities are UK licensed Skilled Worker sponsors",
-"id": "t26102702"
+"visaNote": "Not stated in posting; ByteDance/TikTok UK entities are UK licensed Skilled Worker sponsors"
 },
 {
 "deadline": "2026-11-03",
 "group": "tech",
+"id": "t26102703",
 "link": "https://careers-uk.columbusglobal.com/jobs/8619417-graduate-scheme-business-consultant-2027",
 "location": "Nottingham for first 12 months (listed Cambridge, UK; then UK-wide hybrid)",
 "org": "Columbus UK",
@@ -3650,12 +3651,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Sponsorship not mentioned; deadline shown as 'Tuesday 3rd November' (year implied 2026)",
-"id": "t26102703"
+"visaNote": "Sponsorship not mentioned; deadline shown as 'Tuesday 3rd November' (year implied 2026)"
 },
 {
 "deadline": "Rolling",
 "group": "tech",
+"id": "t27",
 "link": "https://careers.arm.com/job/trondheim/graduate-hardware-engineer/33099/100604944128",
 "location": "Trondheim, Norway",
 "org": "Arm",
@@ -3664,12 +3665,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting states visa sponsorship support is available; relocation within Europe supported; posted 2026-09-14",
-"id": "t27"
+"visaNote": "Posting states visa sponsorship support is available; relocation within Europe supported; posted 2026-09-14"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t28",
 "link": "https://jobs.infineon.com/careers/job/563808971542513",
 "location": "Munich / Duisburg, Germany",
 "org": "Infineon",
@@ -3678,12 +3679,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting (EU-based role); Master's in EE/Physics/CS required; posted 2026-08-04",
-"id": "t28"
+"visaNote": "Not stated on posting (EU-based role); Master's in EE/Physics/CS required; posted 2026-08-04"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t29",
 "link": "https://jobs.infineon.com/careers/job/563808972149679",
 "location": "Klagenfurt, Austria",
 "org": "Infineon",
@@ -3692,12 +3693,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting (EU-based role); posted 2026-10-20",
-"id": "t29"
+"visaNote": "Not stated on posting (EU-based role); posted 2026-10-20"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t30",
 "link": "https://jobs.infineon.com/careers/job/563808971896511",
 "location": "Dublin, Ireland",
 "org": "Infineon",
@@ -3706,12 +3707,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting (EU-based role); electronics engineering degree; posted 2026-09-18",
-"id": "t30"
+"visaNote": "Not stated on posting (EU-based role); electronics engineering degree; posted 2026-09-18"
 },
 {
 "deadline": "Not stated",
 "group": "tech",
+"id": "t31",
 "link": "https://jobs.infineon.com/careers/job/563808971476092",
 "location": "Porto (Maia), Portugal",
 "org": "Infineon",
@@ -3720,12 +3721,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting (EU-based role); business/marketing degree; posted 2026-09-10",
-"id": "t31"
+"visaNote": "Not stated on posting (EU-based role); business/marketing degree; posted 2026-09-10"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v00",
 "link": "https://search.jobs.barclays/en/job/london/banking-summer-internship-programme-2027-london/13015/99528488160",
 "location": "London (Canary Wharf)",
 "org": "Barclays",
@@ -3734,12 +3735,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting: Barclays accepts applicants needing sponsorship and provides a Skilled Worker visa if Home Office criteria met",
-"id": "v00"
+"visaNote": "Posting: Barclays accepts applicants needing sponsorship and provides a Skilled Worker visa if Home Office criteria met"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v01",
 "link": "https://search.jobs.barclays/en/job/london/capital-markets-summer-internship-programme-2027-london/13015/99528488016",
 "location": "London (Canary Wharf)",
 "org": "Barclays",
@@ -3748,12 +3749,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting: Barclays will provide a Skilled Worker visa to successful applicants who meet Home Office criteria",
-"id": "v01"
+"visaNote": "Posting: Barclays will provide a Skilled Worker visa to successful applicants who meet Home Office criteria"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v02",
 "link": "https://search.jobs.barclays/en/job/london/investing-and-lending-summer-internship-programme-2027-london/13015/100032500496",
 "location": "London (Canary Wharf)",
 "org": "Barclays",
@@ -3762,12 +3763,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting: Barclays will provide a Skilled Worker visa to successful applicants who meet Home Office criteria",
-"id": "v02"
+"visaNote": "Posting: Barclays will provide a Skilled Worker visa to successful applicants who meet Home Office criteria"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v03",
 "link": "https://search.jobs.barclays/en/job/london/banking-graduate-programme-2027-london/13015/99885319536",
 "location": "London (Canary Wharf)",
 "org": "Barclays",
@@ -3776,12 +3777,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: sponsorship available via Skilled Worker visa; otherwise need own UK work rights Feb/Jul 2027 to Jul 2029",
-"id": "v03"
+"visaNote": "Posting: sponsorship available via Skilled Worker visa; otherwise need own UK work rights Feb/Jul 2027 to Jul 2029"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v04",
 "link": "https://search.jobs.barclays/en/job/london/capital-markets-graduate-programme-2027-london/13015/99885319584",
 "location": "London (Canary Wharf)",
 "org": "Barclays",
@@ -3790,12 +3791,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: sponsorship available via Skilled Worker visa; otherwise need own UK work rights Feb/Jul 2027 to Jul 2029",
-"id": "v04"
+"visaNote": "Posting: sponsorship available via Skilled Worker visa; otherwise need own UK work rights Feb/Jul 2027 to Jul 2029"
 },
 {
 "deadline": "2026-11-01",
 "group": "finance",
+"id": "v05",
 "link": "https://targetjobs.co.uk/jobs/2027-commercial-investment-banking-innovation-development-program-full-time-analyst-247377",
 "location": "London",
 "org": "J.P. Morgan",
@@ -3804,12 +3805,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Not stated on posting; J.P. Morgan is a known UK licensed Skilled Worker sponsor",
-"id": "v05"
+"visaNote": "Not stated on posting; J.P. Morgan is a known UK licensed Skilled Worker sponsor"
 },
 {
 "deadline": "2026-11-01",
 "group": "finance",
+"id": "v06",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/jp-morgan/asset-management-investments-summer-internship-program-2027-1",
 "location": "London",
 "org": "J.P. Morgan",
@@ -3818,12 +3819,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Not stated on posting; J.P. Morgan is a known UK licensed Skilled Worker sponsor",
-"id": "v06"
+"visaNote": "Not stated on posting; J.P. Morgan is a known UK licensed Skilled Worker sponsor"
 },
 {
 "deadline": "2026-11-01",
 "group": "finance",
+"id": "v07",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/jp-morgan/2027-global-corporate-banking-analyst-program-public-sector-summer-internship-london",
 "location": "London",
 "org": "J.P. Morgan",
@@ -3832,12 +3833,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Not stated on posting; J.P. Morgan is a known UK licensed Skilled Worker sponsor",
-"id": "v07"
+"visaNote": "Not stated on posting; J.P. Morgan is a known UK licensed Skilled Worker sponsor"
 },
 {
 "deadline": "2026-12-04",
 "group": "finance",
+"id": "v08",
 "link": "https://apply.careers.hsbc.com/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
 "location": "London (Canary Wharf)",
 "org": "HSBC",
@@ -3846,12 +3847,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting: 'We will consider candidates that require visa sponsorship for this role'",
-"id": "v08"
+"visaNote": "Posting: 'We will consider candidates that require visa sponsorship for this role'"
 },
 {
 "deadline": "2026-11-02",
 "group": "finance",
+"id": "v09",
 "link": "https://apply.careers.hsbc.com/emergingtalent/job/London-Business-Analyst-Treasury-Graduate-E14-5HQ/1375123357/",
 "location": "London (Canary Wharf)",
 "org": "HSBC",
@@ -3860,12 +3861,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: 'We will consider candidates that require visa sponsorship for this role'",
-"id": "v09"
+"visaNote": "Posting: 'We will consider candidates that require visa sponsorship for this role'"
 },
 {
 "deadline": "2026-11-09",
 "group": "finance",
+"id": "v10",
 "link": "https://apply.careers.hsbc.com/emergingtalent/job/London-Business-Analyst-Finance-&-Treasury-Internship-E14-5HQ/1373569557/",
 "location": "London (Canary Wharf)",
 "org": "HSBC",
@@ -3874,12 +3875,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting: 'We will consider candidates that require visa sponsorship for this role'",
-"id": "v10"
+"visaNote": "Posting: 'We will consider candidates that require visa sponsorship for this role'"
 },
 {
 "deadline": "2026-10-31",
 "group": "finance",
+"id": "v11",
 "link": "https://careers.blackrock.com/en/job/london/2027-full-time-analyst-program-emea/45831/97150826656",
 "location": "London",
 "org": "BlackRock",
@@ -3888,12 +3889,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Not stated on posting; BlackRock is a known UK licensed Skilled Worker sponsor. Other London tracks closed 30 Sep",
-"id": "v11"
+"visaNote": "Not stated on posting; BlackRock is a known UK licensed Skilled Worker sponsor. Other London tracks closed 30 Sep"
 },
 {
 "deadline": "2026-10-30",
 "group": "finance",
+"id": "v12",
 "link": "https://careers.blackrock.com/en/job/london/2027-summer-internship-program-emea/45831/97150826672",
 "location": "London",
 "org": "BlackRock",
@@ -3902,12 +3903,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Not stated on posting; BlackRock is a known UK licensed Skilled Worker sponsor. Other London tracks closed 30 Sep",
-"id": "v12"
+"visaNote": "Not stated on posting; BlackRock is a known UK licensed Skilled Worker sponsor. Other London tracks closed 30 Sep"
 },
 {
 "deadline": "2026-11-15",
 "group": "finance",
+"id": "v13",
 "link": "https://targetjobs.co.uk/jobs/investment-directing-summer-internship-2027-london-240583",
 "location": "London",
 "org": "Fidelity International",
@@ -3916,12 +3917,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting: need UK right to work at application; Tier 4/Student visa counts. Post-internship sponsorship not stated",
-"id": "v13"
+"visaNote": "Posting: need UK right to work at application; Tier 4/Student visa counts. Post-internship sponsorship not stated"
 },
 {
 "deadline": "2026-11-15",
 "group": "finance",
+"id": "v14",
 "link": "https://targetjobs.co.uk/jobs/equity-research-summer-internship-programme-2027-london-240545",
 "location": "London",
 "org": "Fidelity International",
@@ -3930,12 +3931,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on this listing; Fidelity's Investment Directing listing accepts Student visa holders",
-"id": "v14"
+"visaNote": "Not stated on this listing; Fidelity's Investment Directing listing accepts Student visa holders"
 },
 {
 "deadline": "2026-11-15",
 "group": "finance",
+"id": "v15",
 "link": "https://targetjobs.co.uk/jobs/fixed-income-summer-internship-programme-2027-london-240543",
 "location": "London",
 "org": "Fidelity International",
@@ -3944,12 +3945,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on this listing; Fidelity's Investment Directing listing accepts Student visa holders",
-"id": "v15"
+"visaNote": "Not stated on this listing; Fidelity's Investment Directing listing accepts Student visa holders"
 },
 {
 "deadline": "2026-11-15",
 "group": "finance",
+"id": "v16",
 "link": "https://targetjobs.co.uk/jobs/multi-asset-summer-internship-programme-2027-london-240581",
 "location": "London",
 "org": "Fidelity International",
@@ -3958,12 +3959,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on this listing; Fidelity's Investment Directing listing accepts Student visa holders",
-"id": "v16"
+"visaNote": "Not stated on this listing; Fidelity's Investment Directing listing accepts Student visa holders"
 },
 {
 "deadline": "2026-11-01",
 "group": "finance",
+"id": "v17",
 "link": "https://builtinlondon.uk/job/cap-associate-europe-2027/10943212",
 "location": "London (40 Grosvenor Place)",
 "org": "Capital Group",
@@ -3972,12 +3973,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated; posting mentions relocation/housing support only",
-"id": "v17"
+"visaNote": "Not stated; posting mentions relocation/housing support only"
 },
 {
 "deadline": "2026-11-01",
 "group": "finance",
+"id": "v18",
 "link": "https://builtinlondon.uk/job/cap-summer-associate-europe-2027/10945067",
 "location": "London (40 Grosvenor Place)",
 "org": "Capital Group",
@@ -3986,12 +3987,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated; posting mentions relocation support only",
-"id": "v18"
+"visaNote": "Not stated; posting mentions relocation support only"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v19",
 "link": "https://www.wayup.com/i-Financial-Services-j-2027-Investment-Management-Summer-Analyst-Programme-Fixed-Income-London-Morgan-Stanley-957700799689089/",
 "location": "London",
 "org": "Morgan Stanley",
@@ -4000,12 +4001,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Not stated on posting; Morgan Stanley is a known UK licensed Skilled Worker sponsor",
-"id": "v19"
+"visaNote": "Not stated on posting; Morgan Stanley is a known UK licensed Skilled Worker sponsor"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v20",
 "link": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-uk-global-advisory-off-cycle-internship/",
 "location": "London",
 "org": "Rothschild & Co",
@@ -4014,12 +4015,12 @@
 "status": "Opening soon",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on posting. Applications open 18 Dec 2026",
-"id": "v20"
+"visaNote": "Not stated on posting. Applications open 18 Dec 2026"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v21",
 "link": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-five-arrows-private-equity-long-term-internship/",
 "location": "London",
 "org": "Rothschild & Co",
@@ -4028,12 +4029,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated; Jan start is in MSc term, so Student visa 20h/week cap likely rules out current students",
-"id": "v21"
+"visaNote": "Not stated; Jan start is in MSc term, so Student visa 20h/week cap likely rules out current students"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v22",
 "link": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/european-public-private-equity-capital-markets-ecm-gp-solutions-2027-summer-analyst-programme/",
 "location": "London",
 "org": "Rothschild & Co",
@@ -4042,12 +4043,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "v22"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v23",
 "link": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/global-financing-solutions-restructuring-2027-summer-analyst-programme-2027/",
 "location": "London",
 "org": "Rothschild & Co",
@@ -4056,12 +4057,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "v23"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-10-30",
 "group": "finance",
+"id": "v24",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/blackstone/summer-analyst-london-2027-akmj",
 "location": "London",
 "org": "Blackstone",
@@ -4070,12 +4071,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Not stated on posting; Blackstone is a known UK licensed Skilled Worker sponsor",
-"id": "v24"
+"visaNote": "Not stated on posting; Blackstone is a known UK licensed Skilled Worker sponsor"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v25",
 "link": "https://venturecapitalcareers.com/companies/adams-street-partners/jobs/analyst-primary",
 "location": "London",
 "org": "Adams Street Partners",
@@ -4084,12 +4085,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "v25"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26",
 "link": "https://venturecapitalcareers.com/companies/harbourvest-partners/jobs/associate-primary-2",
 "location": "London (hybrid)",
 "org": "HarbourVest Partners",
@@ -4098,12 +4099,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "v26"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-10-31",
 "group": "finance",
+"id": "v26102101",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/janus-henderson/research-associate-investment-graduate-programme-2027",
 "location": "London (hybrid)",
 "org": "Janus Henderson Investors",
@@ -4112,12 +4113,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Janus Henderson Investors UK Ltd is on the Home Office register of licensed sponsors; not stated on posting",
-"id": "v26102101"
+"visaNote": "Janus Henderson Investors UK Ltd is on the Home Office register of licensed sponsors; not stated on posting"
 },
 {
 "deadline": "2026-10-25",
 "group": "finance",
+"id": "v26102102",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/mufg/uk-analyst-programme-capital-markets-2027",
 "location": "London",
 "org": "MUFG",
@@ -4126,12 +4127,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "MUFG Bank Ltd (London) is on the Home Office register of licensed sponsors; not stated on posting",
-"id": "v26102102"
+"visaNote": "MUFG Bank Ltd (London) is on the Home Office register of licensed sponsors; not stated on posting"
 },
 {
 "deadline": "2026-11-13",
 "group": "finance",
+"id": "v26102103",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/standard-chartered-bank/syndicate-portfolio-management-graduate-programme-london",
 "location": "London",
 "org": "Standard Chartered",
@@ -4140,12 +4141,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting says candidates needing visa sponsorship will be considered for UK roles (but also mentions a permanent right-to-work line, so check)",
-"id": "v26102103"
+"visaNote": "Posting says candidates needing visa sponsorship will be considered for UK roles (but also mentions a permanent right-to-work line, so check)"
 },
 {
 "deadline": "2026-11-01",
 "group": "finance",
+"id": "v26102104",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/jp-morgan/2027-global-private-bank-investment-solutions-analyst-training-program-london",
 "location": "London",
 "org": "J.P. Morgan",
@@ -4154,12 +4155,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "JPMorgan Chase Bank N.A. (London) is on the Home Office register of licensed sponsors; not stated on posting",
-"id": "v26102104"
+"visaNote": "JPMorgan Chase Bank N.A. (London) is on the Home Office register of licensed sponsors; not stated on posting"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v26102105",
 "link": "https://dncapital.hire.trakstar.com/jobs/fk0hecj/",
 "location": "London or Berlin",
 "org": "DN Capital",
@@ -4168,12 +4169,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Posting says candidates needing visa support can be helped, but start may need to be about 6 months out",
-"id": "v26102105"
+"visaNote": "Posting says candidates needing visa support can be helped, but start may need to be about 6 months out"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v26102201",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/blackstone/private-equity-off-cycle-internship-london-2027-al3o",
 "location": "London",
 "org": "Blackstone",
@@ -4182,12 +4183,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "v26102201"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v26102202",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/blackstone/strategic-partners-off-cycle-internship-london-2027-aln1",
 "location": "London",
 "org": "Blackstone",
@@ -4196,12 +4197,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "v26102202"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102203",
 "link": "https://jobs.smartrecruiters.com/Wiser/744000153205707-financial-sponsors-group-off-cycle-intern-2026-27-start-date-evercore",
 "location": "London",
 "org": "Evercore",
@@ -4210,12 +4211,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "v26102203"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-11-06",
 "group": "finance",
+"id": "v26102301",
 "link": "https://targetjobs.co.uk/jobs/investment-and-impact-graduate-analyst-246285",
 "location": "London",
 "org": "British International Investment (BII)",
@@ -4224,12 +4225,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "No",
-"visaNote": "Posting: permanent UK right to work required; Student/Graduate visas not accepted",
-"id": "v26102301"
+"visaNote": "Posting: permanent UK right to work required; Student/Graduate visas not accepted"
 },
 {
 "deadline": "2026-11-15",
 "group": "finance",
+"id": "v26102302",
 "link": "https://targetjobs.co.uk/jobs/equity-research-graduate-programme-2027-london-240539",
 "location": "London",
 "org": "Fidelity International",
@@ -4238,12 +4239,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "v26102302"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2026-10-25",
 "group": "finance",
+"id": "v26102303",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/mufg/mufg-uk-analyst-programme-global-corporate-investment-banking-2027",
 "location": "London",
 "org": "MUFG",
@@ -4252,12 +4253,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "MUFG Bank Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "v26102303"
+"visaNote": "MUFG Bank Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102304",
 "link": "https://www.efinancialcareers.co.uk/jobs-UK-London-Real_Estate_Intern.id24870468",
 "location": "London",
 "org": "The Carlyle Group",
@@ -4266,12 +4267,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated; start date and length not stated",
-"id": "v26102304"
+"visaNote": "Not stated; start date and length not stated"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102306",
 "link": "https://seedcamp.com/visiting-analyst/",
 "location": "London (on-site 3+ days/week)",
 "org": "Seedcamp",
@@ -4280,12 +4281,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated; full-time 6 months fits only after the MSc",
-"id": "v26102306"
+"visaNote": "Not stated; full-time 6 months fits only after the MSc"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102401",
 "link": "https://guggenheim.wd1.myworkdayjobs.com/en-US/Guggenheim_Careers_Campus/job/London--UK/XMLNAME-2027-Investment-Banking-Analyst-Intern---Digital-Infrastructure--London---September---December_14893",
 "location": "London, UK",
 "org": "Guggenheim Partners",
@@ -4294,12 +4295,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting does not mention visa sponsorship.",
-"id": "v26102401"
+"visaNote": "Posting does not mention visa sponsorship."
 },
 {
 "deadline": "2026-10-25",
 "group": "finance",
+"id": "v26102402",
 "link": "https://targetjobs.co.uk/jobs/2027-mufg-uk-analyst-programme-transaction-banking-248021",
 "location": "London, UK",
 "org": "MUFG",
@@ -4308,12 +4309,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Listing does not mention visa sponsorship; check with MUFG (apply via mufgcampus.com).",
-"id": "v26102402"
+"visaNote": "Listing does not mention visa sponsorship; check with MUFG (apply via mufgcampus.com)."
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102403",
 "link": "https://www.efinancialcareers.com/jobs-United_Kingdom-London-2027__EMEA__London__Asset_Management_Private_Investing_Private_Equity_SeasonalOff-Cycle.id24554239",
 "location": "London, UK",
 "org": "Goldman Sachs",
@@ -4322,12 +4323,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting silent on sponsorship; Goldman Sachs International sponsors Skilled Workers but sponsorship for this internship is not confirmed.",
-"id": "v26102403"
+"visaNote": "Posting silent on sponsorship; Goldman Sachs International sponsors Skilled Workers but sponsorship for this internship is not confirmed."
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102404",
 "link": "https://www.efinancialcareers.com/jobs-United_Kingdom-London-2027__EMEA__London__Asset_Management_Infrastructure_Private_Equity__SeasonalOff-Cycle.id24771479",
 "location": "London, UK",
 "org": "Goldman Sachs",
@@ -4336,12 +4337,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Posting silent on sponsorship; Goldman Sachs International sponsors Skilled Workers but sponsorship for this internship is not confirmed.",
-"id": "v26102404"
+"visaNote": "Posting silent on sponsorship; Goldman Sachs International sponsors Skilled Workers but sponsorship for this internship is not confirmed."
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102405",
 "link": "https://runacap.com/london-analyst/",
 "location": "London, UK (Huckletree Oxford Circus)",
 "org": "Runa Capital",
@@ -4350,12 +4351,12 @@
 "status": "Open",
 "type": "Role",
 "visa": "Unknown",
-"visaNote": "Posting does not mention visa sponsorship.",
-"id": "v26102405"
+"visaNote": "Posting does not mention visa sponsorship."
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v26102501",
 "link": "https://jobs.citi.com/job/london/markets-sales-and-trading-full-time-analyst-london-united-kingdom-2027/287/102161045040",
 "location": "London (Canary Wharf)",
 "org": "Citi",
@@ -4364,12 +4365,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Citigroup Global Markets Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "v26102501"
+"visaNote": "Citigroup Global Markets Ltd is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102503",
 "link": "https://higher.gs.com/roles/170901",
 "location": "London",
 "org": "Goldman Sachs",
@@ -4378,12 +4379,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Goldman Sachs International is a licensed Skilled Worker sponsor (Home Office register); not stated on posting",
-"id": "v26102503"
+"visaNote": "Goldman Sachs International is a licensed Skilled Worker sponsor (Home Office register); not stated on posting"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102504",
 "link": "https://job-boards.greenhouse.io/atomico/jobs/8381428002",
 "location": "London",
 "org": "Atomico",
@@ -4392,12 +4393,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "v26102504"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-11-13",
 "group": "finance",
+"id": "v26102601",
 "link": "https://www.brightnetwork.co.uk/graduate-jobs/standard-chartered-bank/mergers-acquisitions-graduate-programme-london",
 "location": "London",
 "org": "Standard Chartered",
@@ -4406,12 +4407,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Yes",
-"visaNote": "Posting: candidates requiring visa sponsorship will be considered (UK)",
-"id": "v26102601"
+"visaNote": "Posting: candidates requiring visa sponsorship will be considered (UK)"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v26102602",
 "link": "https://schroders.voyse.io/en/jobs/wealth-management-portfolio-management-graduate-2027",
 "location": "City of London",
 "org": "Schroders",
@@ -4420,12 +4421,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "v26102602"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-12-01",
 "group": "finance",
+"id": "v26102701",
 "link": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8870454002",
 "location": "London",
 "org": "Rothesay",
@@ -4434,12 +4435,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship",
-"id": "v26102701"
+"visaNote": "Posting does not mention sponsorship"
 },
 {
 "deadline": "2026-12-01",
 "group": "finance",
+"id": "v26102702",
 "link": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8905231002",
 "location": "London",
 "org": "Rothesay",
@@ -4448,12 +4449,12 @@
 "status": "Open",
 "type": "Graduate",
 "visa": "Unknown",
-"visaNote": "Posting does not mention sponsorship; may close early",
-"id": "v26102702"
+"visaNote": "Posting does not mention sponsorship; may close early"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v26102703",
 "link": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-27ae6f5d3480/candidate/so/pm/1/pl/1/opp/21611-2027-Sales-and-Trading-Off-Cycle-Internship-London/en-GB",
 "location": "London",
 "org": "Morgan Stanley",
@@ -4462,12 +4463,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Yes",
-"visaNote": "Not stated in posting; Morgan Stanley is a known UK licensed Skilled Worker sponsor",
-"id": "v26102703"
+"visaNote": "Not stated in posting; Morgan Stanley is a known UK licensed Skilled Worker sponsor"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v26102704",
 "link": "https://career.nordiccapital.com/jobs/8588267-internship-london-spring-2027",
 "location": "London",
 "org": "Nordic Capital",
@@ -4476,12 +4477,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Posting says no visa sponsorship; UK right to work required",
-"id": "v26102704"
+"visaNote": "Posting says no visa sponsorship; UK right to work required"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v27",
 "link": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Off-Cycle-Internship-Venture-Capital-2027/23014",
 "location": "London",
 "org": "Macquarie Capital",
@@ -4490,12 +4491,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated; Jan start falls in MSc term (Student visa 20h/week cap)",
-"id": "v27"
+"visaNote": "Not stated; Jan start falls in MSc term (Student visa 20h/week cap)"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v28",
 "link": "https://venturecapitalcareers.com/companies/breega/jobs/vc-analyst-internship---breega-ukce-2",
 "location": "London (hybrid)",
 "org": "Breega",
@@ -4504,12 +4505,12 @@
 "status": "Open",
 "type": "Internship",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "v28"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v29",
 "link": "https://venturecapitalcareers.com/companies/nickleby-capital/jobs/analyst-4b8238ac98df",
 "location": "London (hybrid, 3 days in office)",
 "org": "Nickleby Capital",
@@ -4518,12 +4519,12 @@
 "status": "Open",
 "type": "Experienced",
 "visa": "Unknown",
-"visaNote": "Not stated on posting",
-"id": "v29"
+"visaNote": "Not stated on posting"
 },
 {
 "deadline": "2027-01-11",
 "group": "finance",
+"id": "v30",
 "link": "https://kauffmanfellows.embark.com/apply/kf32",
 "location": "Global (modules in US; mostly virtual)",
 "org": "Kauffman Fellows",
@@ -4532,12 +4533,12 @@
 "status": "Open",
 "type": "Fellowship",
 "visa": "Unknown",
-"visaNote": "Not employment; aimed at people already in VC/investing roles",
-"id": "v30"
+"visaNote": "Not employment; aimed at people already in VC/investing roles"
 },
 {
 "deadline": "Not stated",
 "group": "finance",
+"id": "v31",
 "link": "https://form.typeform.com/to/bALnGEQ7",
 "location": "Remote (global)",
 "org": "Included VC",
@@ -4546,12 +4547,12 @@
 "status": "Open",
 "type": "Fellowship",
 "visa": "Unknown",
-"visaNote": "Remote part-time programme; not employment. Registrations of interest open; applications usually May-Aug",
-"id": "v31"
+"visaNote": "Remote part-time programme; not employment. Registrations of interest open; applications usually May-Aug"
 },
 {
 "deadline": "Rolling",
 "group": "finance",
+"id": "v32",
 "link": "https://careers.legalandgeneral.com/summer-internships",
 "location": "London",
 "org": "Legal & General (L&G Asset Management)",
@@ -4560,7 +4561,230 @@
 "status": "Opening soon",
 "type": "Internship",
 "visa": "No",
-"visaNote": "Careers page: L&G does not offer sponsorship for Summer Internship schemes. Usually opens in November",
-"id": "v32"
+"visaNote": "Careers page: L&G does not offer sponsorship for Summer Internship schemes. Usually opens in November"
+},
+{
+"deadline": "2027-01-04",
+"group": "consulting",
+"id": "c26110201",
+"link": "https://builtinlondon.uk/job/junior-consultant-summer-internship-2027/11612734",
+"location": "London",
+"org": "Roland Berger",
+"role": "Junior Consultant Summer Internship 2027 (London, in person, 5 Jul-27 Aug 2027; Bachelor's/Master's students on track for 2:1 graduating 2027 or 2028; covering letter required; overlaps the MSc dissertation period)",
+"source": "https://builtinlondon.uk/job/junior-consultant-summer-internship-2027/11612734",
+"status": "Open",
+"type": "Internship",
+"visa": "No",
+"visaNote": "Posting: 'Visa sponsorship is not offered for this role' and applicants must have the right to work in the UK."
+},
+{
+"deadline": "2027-01-31",
+"group": "consulting",
+"id": "c26110202",
+"link": "https://higherin.com/jobs/43652/alphasights/client-service-associate-2027-english-speaker",
+"location": "London",
+"org": "AlphaSights",
+"role": "Client Service Associate 2027 - English Speaker (London; expert-network client service role close to consulting; 2:1 undergraduate degree plus commercial or sales internship experience; may close before the deadline)",
+"source": "https://higherin.com/jobs/43652/alphasights/client-service-associate-2027-english-speaker",
+"status": "Open",
+"type": "Graduate",
+"visa": "Unknown",
+"visaNote": "Posting only asks applicants to state their right to work and whether they need visa sponsorship. It does not say whether sponsorship is offered."
+},
+{
+"deadline": "Not stated",
+"group": "consulting",
+"id": "c26110203",
+"link": "https://job-boards.greenhouse.io/capco/jobs/8267259",
+"location": "London (hybrid)",
+"org": "Capco",
+"role": "Associate Consulting Programme - September 2027 (Associate Consultant, Financial Services; London hybrid; min 2:1 undergraduate; the posting's closing line says 'midday on Friday 16th September' with no year, so check before relying on it; may close early)",
+"source": "https://job-boards.greenhouse.io/capco/jobs/8267259",
+"status": "Open",
+"type": "Graduate",
+"visa": "Unknown",
+"visaNote": "Posting gives no sponsorship policy. The form asks whether you need Right to Work sponsorship now or in future."
+},
+{
+"deadline": "Not stated",
+"group": "tech",
+"id": "t26110201",
+"link": "https://amazon.jobs/jobs/2797314",
+"location": "London",
+"org": "Amazon",
+"role": "Program Manager Intern (12-month internship, London; Bachelor's/Master's graduating in 2026 or 2027; full 12 months, 40 hrs/week; start dates vary through the year)",
+"source": "https://amazon.jobs/jobs/2797314",
+"status": "Open",
+"type": "Internship",
+"visa": "Unknown",
+"visaNote": "Posting does not mention visas. The hiring entity named is Amazon Business EU Sarl (UK Branch), not Amazon UK Services Ltd, so sponsorship is not assumed."
+},
+{
+"deadline": "Rolling",
+"group": "tech",
+"id": "t26110202",
+"link": "https://jobs.bendingspoons.com/positions/6a7c200c8d56625890012669",
+"location": "London / Milan / Madrid / Warsaw",
+"org": "Bending Spoons",
+"role": "Graduate growth manager (London, Milan, Madrid or Warsaw; permanent or fixed-term; first few months mostly in the Milan office; relocation package offered)",
+"source": "https://jobs.bendingspoons.com/positions/6a7c200c8d56625890012669",
+"status": "Open",
+"type": "Graduate",
+"visa": "Unknown",
+"visaNote": "Posting mentions a 'rich relocation package' but says nothing about visas or UK sponsorship."
+},
+{
+"deadline": "Rolling",
+"group": "tech",
+"id": "t26110203",
+"link": "https://jobs.bendingspoons.com/positions/69d8b3196288fd924641f5df",
+"location": "London / Milan / Madrid / Warsaw",
+"org": "Bending Spoons",
+"role": "Graduate data scientist (London, Milan, Madrid or Warsaw; permanent or fixed-term; first few months mostly in the Milan office; no formal degree requirement stated)",
+"source": "https://jobs.bendingspoons.com/positions/69d8b3196288fd924641f5df",
+"status": "Open",
+"type": "Graduate",
+"visa": "Unknown",
+"visaNote": "Posting mentions a relocation package but says nothing about visas or UK sponsorship."
+},
+{
+"deadline": "2026-11-15",
+"group": "consumer",
+"id": "m26110201",
+"link": "https://targetjobs.co.uk/jobs/business-graduate-programme-253433",
+"location": "London (in person)",
+"org": "Sky",
+"role": "Business Graduate Programme 2027 (2 years, 4 rotations; year 1 in Consumer Group marketing/insight and commercial/trading, year 2 options incl. Brand Strategy, Propositions, Insight & Analytics, Commercial Content Strategy; £36k; final-year UG, postgrad or graduated, any degree; one Sky programme per year)",
+"source": "https://targetjobs.co.uk/jobs/business-graduate-programme-253433",
+"status": "Open",
+"type": "Graduate",
+"visa": "No",
+"visaNote": "Posting says Sky does not offer sponsorship for this role; UK right to work needed for the full programme. Starts 1 Sep 2027."
+},
+{
+"deadline": "2026-12-31",
+"group": "building",
+"id": "f26110201",
+"link": "https://activate.co.uk/",
+"location": "London (hybrid)",
+"org": "Activate Studio",
+"role": "Winter 2026 funding cycle (London product studio/accelerator for product-focused, digital startup founders; invests time, expertise and dedicated product teams; terms not stated on page)",
+"source": "https://activate.co.uk/",
+"status": "Open",
+"type": "Accelerator",
+"visa": "Unknown",
+"visaNote": "Not a job. Page does not mention visas; FAQ on whether you must be London-based not shown."
+},
+{
+"deadline": "2026-11-11",
+"group": "building",
+"id": "f26110202",
+"link": "https://sxsw.com/pitch/",
+"location": "Austin, USA (in person)",
+"org": "SXSW",
+"role": "SXSW Pitch 2027 (startup pitch competition in Austin, March 2027; product launched no earlier than 1 Jan 2024; under $10M raised; must be legally registered; main page says applications open through 13 Nov, FAQ says Fri 11 Nov 11:59pm PT, so aim for 11 Nov)",
+"source": "https://sxsw.com/pitch/",
+"status": "Open",
+"type": "Competition",
+"visa": "Unknown",
+"visaNote": "Not a job. You would need to be able to travel to the US for the finals."
+},
+{
+"deadline": "Rolling",
+"group": "building",
+"id": "f26110203",
+"link": "https://www.mercatus.org/emergent-ventures",
+"location": "Remote (worldwide)",
+"org": "Mercatus Center (George Mason University)",
+"role": "Emergent Ventures grants and fellowships (worldwide; 'zero to one' ideas; includes dedicated U.K. dynamism and Africa tracks; AI-written applications rejected)",
+"source": "https://www.mercatus.org/emergent-ventures",
+"status": "Open",
+"type": "Grant",
+"visa": "Unknown",
+"visaNote": "Not a job. Grant, not employment; check Student visa conditions before using it for self-employment."
+},
+{
+"deadline": "Rolling",
+"group": "building",
+"id": "f26110204",
+"link": "https://www.natwest.com/business/business-services/entrepreneur-accelerator.html",
+"location": "London (and other UK hubs)",
+"org": "NatWest",
+"role": "NatWest Accelerator (free entrepreneur community; London co-working hub at Bishops Square E1 and events space at 94 Moorgate; join via app; separate Accelerator Pitch competition)",
+"source": "https://www.natwest.com/business/business-services/entrepreneur-accelerator.html",
+"status": "Open",
+"type": "Programme",
+"visa": "Unknown",
+"visaNote": "Not a job. Page says 'any business can join'; no visa info."
+},
+{
+"deadline": "Rolling",
+"group": "starting",
+"id": "f26110205",
+"link": "https://jobs.ashbyhq.com/axle-careers/f618d9c7-00b8-4560-9e45-9c2694d6f7ae",
+"location": "London (hybrid)",
+"org": "Axle Energy",
+"role": "Founders Associate (Commercial team; works directly with founders; growth potential valued over domain expertise; strong with data; hybrid 2-3 days in office; total comp £75k-£200k base + equity)",
+"source": "https://api.ashbyhq.com/posting-api/job-board/axle-careers (published 2026-10-20, listed)",
+"status": "Open",
+"type": "Role",
+"visa": "Unknown",
+"visaNote": "Posting does not mention sponsorship."
+},
+{
+"deadline": "Rolling",
+"group": "starting",
+"id": "f26110206",
+"link": "https://wellfound.com/jobs/3157483-founder-s-associate-chief-of-staff",
+"location": "London (in office)",
+"org": "Tracer",
+"role": "Founder's Associate / Chief of Staff (in-office London; asks for 2+ yrs experience; £35-40k, no equity)",
+"source": "https://wellfound.com/jobs/3157483-founder-s-associate-chief-of-staff",
+"status": "Open",
+"type": "Role",
+"visa": "No",
+"visaNote": "Listing states visa sponsorship is not available."
+},
+{
+"deadline": "2026-11-07",
+"group": "starting",
+"id": "f26110207",
+"link": "https://luma.com/m3pbljlh",
+"location": "London (Bethnal Green)",
+"org": "House London (Newspeak House)",
+"role": "House London #3: Data Hackathon (Sat 7 Nov 2026, Newspeak House, 133 Bethnal Green Rd; free; data scientists, urban planners, policy thinkers; host approval required)",
+"source": "https://luma.com/m3pbljlh",
+"status": "Open",
+"type": "Event",
+"visa": "Unknown",
+"visaNote": "Not a job"
+},
+{
+"deadline": "2026-11-04",
+"group": "starting",
+"id": "f26110208",
+"link": "https://luma.com/claude-zl3r",
+"location": "London",
+"org": "Claude Community Events (London)",
+"role": "Claude Cybersecurity Workshop | London Hackathon (Wed 4 Nov 2026; community-run; teams get 30 min to plan and 2 hrs to build on a cybersecurity topic, then present; host approval required; venue after approval)",
+"source": "https://clauders.com/events/claude-cybersecurity-nov-2026/",
+"status": "Open",
+"type": "Event",
+"visa": "Unknown",
+"visaNote": "Not a job"
+},
+{
+"deadline": "2026-11-12",
+"group": "starting",
+"id": "f26110209",
+"link": "https://luma.com/london-hh-26",
+"location": "London",
+"org": "Solana Hacker Houses",
+"role": "Solana Hacker House London (1-12 Nov 2026; daily 10:00-20:00 co-building space to build and test Solana products ahead of Breakpoint 2026; approved guests only, limited space; address after registration)",
+"source": "https://createwith.com/event/london-solana-hacker-house-london-nov-2026",
+"status": "Open",
+"type": "Event",
+"visa": "Unknown",
+"visaNote": "Not a job"
 }
 ]
