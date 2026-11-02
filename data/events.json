@@ -1,22 +1,5 @@
 [
 {
-"date": "2026-11-03",
-"end": "13:00",
-"for": [
-"Consulting",
-"Tech and Product",
-"Consumer, Media and Marketing",
-"Finance and VC"
-],
-"link": "",
-"location": "Imperial Business School, room TBC",
-"start": "11:00",
-"status": "Proposed",
-"text": "Bring your CV and a cover letter for a role you're applying to. We pair you with someone in your sector to swap and give feedback using a short checklist.",
-"title": "CV and cover letter swaps",
-"id": "e-cv"
-},
-{
 "date": "2026-11-06",
 "end": "13:00",
 "for": [
@@ -66,15 +49,16 @@
 "end": "13:00",
 "for": [
 "Consulting",
-"Finance and VC",
-"Tech and Product"
+"Tech and Product",
+"Consumer, Media and Marketing",
+"Finance and VC"
 ],
 "link": "",
 "location": "Imperial Business School, room TBC",
 "start": "11:00",
 "status": "Proposed",
-"text": "Practice in small groups by sector: case interviews for Consulting, technical questions for Finance and VC, and product cases for Tech and Product.",
-"title": "Technical prep and case studies",
+"text": "Two parts. Practise in small groups by sector: case interviews for Consulting, technical questions for Finance and VC, and product cases for Tech and Product. Then bring your CV and a cover letter for a role you're applying to, and swap with someone in your sector for feedback using a short checklist.",
+"title": "Case study prep and CV swaps",
 "id": "e-tech"
 }
 ]
