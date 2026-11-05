@@ -257,7 +257,7 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,th
   <section id="v-events" hidden style="display:grid;gap:14px">
     <div class="crumbs"><a href="#home">← Home</a><span class="kind">Events</span></div>
     <h2 class="pick-h" style="margin-bottom:0">Upcoming events</h2>
-    <p class="note">Proposed dates may still move: press "I'm interested" so we can pick the best date, and we'll confirm it here.</p>
+    <p class="note">Dates marked TBD aren't set yet: press "I'm interested" so we can pick the best date, and we'll confirm it here.</p>
     <div class="evlist" id="evlist"></div>
   </section>
 
@@ -441,7 +441,7 @@ window.addEventListener("hashchange", () => { navHash = (location.hash || "").re
 let events = [], rsvp = {};
 function renderEvents(target, limit){
   const box = $(target || "evlist"); if (!box) return; box.replaceChildren();
-  let list = events.slice().sort((a,b) => (a.date + (a.start||"")).localeCompare(b.date + (b.start||"")));
+  let list = events.slice().sort((a,b) => ((isDate(a.date) ? a.date : "9999") + (a.start||"")).localeCompare((isDate(b.date) ? b.date : "9999") + (b.start||"")));
   const upcoming = list.filter(e => !(isDate(e.date) && daysTo(e.date) < 0)), past = list.filter(e => isDate(e.date) && daysTo(e.date) < 0);
   if (!list.length){ box.append(el("p", {class:"empty"}, "Loading events.")); return; }
   const show = limit ? upcoming.slice(0, limit) : [...upcoming, ...past];
@@ -464,11 +464,11 @@ function renderEvents(target, limit){
     }
     const past = isDate(e.date) && daysTo(e.date) < 0;
     box.append(el("article", {class:"ev" + (past ? " past" : "")},
-      el("div", {class:"when"}, el("small", {}, d.toLocaleDateString("en-GB", {weekday:"short"})), el("b", {}, String(d.getDate())), el("small", {}, d.toLocaleDateString("en-GB", {month:"short"}))),
+      (isDate(e.date) ? el("div", {class:"when"}, el("small", {}, d.toLocaleDateString("en-GB", {weekday:"short"})), el("b", {}, String(d.getDate())), el("small", {}, d.toLocaleDateString("en-GB", {month:"short"}))) : el("div", {class:"when"}, el("small", {}, "Date"), el("b", {}, "TBD"), el("small", {}, ""))),
       el("div", {}, el("h3", {}, e.title || ""),
         el("div", {class:"meta"}, el("span", {}, (e.start ? e.start + (e.end ? "–" + e.end : "") : "Time TBC")), el("span", {}, e.location || "Location TBC"), null),
         e.text ? el("p", {}, e.text) : null, who,
-        el("div", {class:"tags"}, el("span", {class:"tag " + (e.status === "Confirmed" ? "conf" : "prop")}, e.status === "Confirmed" ? "Confirmed" : e.status === "Pending" ? "Pending" : "Proposed date"), ...(e.for || []).map(t => el("span", {class:"tag"}, t)))),
+        el("div", {class:"tags"}, el("span", {class:"tag " + (e.status === "Confirmed" ? "conf" : "prop")}, e.status === "Confirmed" ? "Confirmed" : e.status === "Pending" ? "Pending" : isDate(e.date) ? "Proposed date" : "Date TBD"), ...(e.for || []).map(t => el("span", {class:"tag"}, t)))),
       el("div", {class:"go"}, past ? el("span", {class:"kind"}, "Past") : btn, faces, url ? el("a", {class:"lnk", href:url, target:"_blank", rel:"noopener noreferrer"}, "Event page ↗") : null)));
   }
 }
